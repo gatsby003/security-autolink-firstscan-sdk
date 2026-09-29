@@ -1,3 +1,3 @@
 # Synthetic authorization SDK
 
-This test library exports requireTenantAccess(actor, tenantId). It validates tenant boundaries for the invoice API at https://github.com/gatsby003/security-autolink-firstscan-api. The API calls this function before returning dummy invoices. Review changes to this shared authorization function together with its caller in the API. No real customer data or credentials.
+JavaScript index.js and Python tenant_auth.py implement the same tenant authorization check. The API at https://github.com/gatsby003/security-autolink-firstscan-api imports require_tenant_access from this Python package and calls it before returning dummy invoice data. Security analysis of the API needs this authorization implementation. This library has no network service or real credentials. All data is synthetic.
