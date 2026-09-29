@@ -1,0 +1,10 @@
+{
+  "name": "@gatsby003/security-autolink-firstscan-sdk",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsby003/security-autolink-firstscan-sdk.git"
+  }
+}
