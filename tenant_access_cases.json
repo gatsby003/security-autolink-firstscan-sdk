@@ -1,0 +1,3002 @@
+[
+  {
+    "case_id": "1ab12740-a712-55c3-b912-a5e9027974a7",
+    "actor": {
+      "id": "071006a6-3a9f-57b8-94dc-0503065472e8",
+      "tenant_id": "606f2ebf-7e00-5d18-88ea-843788aa1124"
+    },
+    "allowed_tenant_id": "606f2ebf-7e00-5d18-88ea-843788aa1124",
+    "denied_tenant_id": "d7f953bc-f056-52c2-87ba-9f79d13c890f",
+    "synthetic": true
+  },
+  {
+    "case_id": "f5a996bf-9786-5c5f-afd7-25f9489d7a19",
+    "actor": {
+      "id": "8769cb05-86dc-5ebc-838d-724bbf5fa9a5",
+      "tenant_id": "a054fd00-b54a-5eb9-97ce-df4d141e7aa5"
+    },
+    "allowed_tenant_id": "a054fd00-b54a-5eb9-97ce-df4d141e7aa5",
+    "denied_tenant_id": "f1a50ca8-5ce1-5c92-8b38-6761cba386ea",
+    "synthetic": true
+  },
+  {
+    "case_id": "7458a216-55aa-5e86-aeb2-eef61d1635ba",
+    "actor": {
+      "id": "837884b6-7473-52ff-b1d0-bcefb48ada29",
+      "tenant_id": "9a4645ff-21b6-5702-af87-fe303e5130f5"
+    },
+    "allowed_tenant_id": "9a4645ff-21b6-5702-af87-fe303e5130f5",
+    "denied_tenant_id": "2468208a-57f4-5655-9cd8-e2d7dbfe7676",
+    "synthetic": true
+  },
+  {
+    "case_id": "40987560-9263-5744-83ee-9b76a4ef462a",
+    "actor": {
+      "id": "4ec3d1a3-3cc5-5e4a-b15a-bec08eb044ee",
+      "tenant_id": "c60d96a7-d672-57d1-a997-b2d3e845b12b"
+    },
+    "allowed_tenant_id": "c60d96a7-d672-57d1-a997-b2d3e845b12b",
+    "denied_tenant_id": "6fb201f8-d6bf-5fa5-830a-17b39a73159f",
+    "synthetic": true
+  },
+  {
+    "case_id": "ae119ef8-66a2-5e95-9f91-f348f5ce2013",
+    "actor": {
+      "id": "6f07e5d7-3295-5b97-84bb-5ced7e0ea2c0",
+      "tenant_id": "c7696a62-4da5-5caa-b127-ba3028377ac4"
+    },
+    "allowed_tenant_id": "c7696a62-4da5-5caa-b127-ba3028377ac4",
+    "denied_tenant_id": "e0b8b932-de69-5536-91d9-645b8bf02a61",
+    "synthetic": true
+  },
+  {
+    "case_id": "9c5f2d01-4847-5d1d-8ea8-69e5e0bc5b7b",
+    "actor": {
+      "id": "38e62617-dce7-582c-9d0f-e3907f1aedc3",
+      "tenant_id": "6875726e-6fb0-5c3e-afc1-0de464621320"
+    },
+    "allowed_tenant_id": "6875726e-6fb0-5c3e-afc1-0de464621320",
+    "denied_tenant_id": "8e6bdce5-3d9a-51c5-a44e-2d7141d77a66",
+    "synthetic": true
+  },
+  {
+    "case_id": "4e2a7210-f6a8-5be0-8f12-6c536d434946",
+    "actor": {
+      "id": "3bf361e2-e095-50b1-adc8-a04b0f40c6b9",
+      "tenant_id": "92aea6f9-cccf-506a-b71a-1f5870ca2b91"
+    },
+    "allowed_tenant_id": "92aea6f9-cccf-506a-b71a-1f5870ca2b91",
+    "denied_tenant_id": "4a7a7734-4d4e-55ad-955d-a36a866dee04",
+    "synthetic": true
+  },
+  {
+    "case_id": "026b7168-37a2-5f84-9b9a-ed935218a67a",
+    "actor": {
+      "id": "39056f3c-8ccb-5bf5-83fc-04576fe77457",
+      "tenant_id": "7c76ce3b-b2cd-5d5d-932c-2e725ac06c16"
+    },
+    "allowed_tenant_id": "7c76ce3b-b2cd-5d5d-932c-2e725ac06c16",
+    "denied_tenant_id": "241ee0ec-e200-55cb-9a77-95fe8fe76ca2",
+    "synthetic": true
+  },
+  {
+    "case_id": "f6656ae4-fdff-50c5-81a3-5282c95ae5e8",
+    "actor": {
+      "id": "f7288245-7461-5efa-b3b7-423d17c24a4b",
+      "tenant_id": "ee1ef2d7-5db2-5ce4-a3da-8255838ce670"
+    },
+    "allowed_tenant_id": "ee1ef2d7-5db2-5ce4-a3da-8255838ce670",
+    "denied_tenant_id": "cef2d9e1-130e-5c8f-ab72-2b0ca4ff0b43",
+    "synthetic": true
+  },
+  {
+    "case_id": "a3a2505d-573b-53ec-8fe9-28669566892c",
+    "actor": {
+      "id": "92ec4cbf-7ee7-5551-9915-1b1ad06938ce",
+      "tenant_id": "d7584806-d270-5712-a257-0de05e5a3e04"
+    },
+    "allowed_tenant_id": "d7584806-d270-5712-a257-0de05e5a3e04",
+    "denied_tenant_id": "d5906d23-6e43-52e6-bb58-2981a968d985",
+    "synthetic": true
+  },
+  {
+    "case_id": "ea2ae772-6ced-5e86-b0a3-9ef543b7b415",
+    "actor": {
+      "id": "738d568f-e830-5275-b374-70fbb399699c",
+      "tenant_id": "fe6049dc-c1fa-5522-b93a-a1e34338d0b6"
+    },
+    "allowed_tenant_id": "fe6049dc-c1fa-5522-b93a-a1e34338d0b6",
+    "denied_tenant_id": "5fd52176-55f6-5823-b580-6774afa999c2",
+    "synthetic": true
+  },
+  {
+    "case_id": "5b01e480-db84-5346-bba1-d84642d9b0db",
+    "actor": {
+      "id": "12682bf7-7d5b-5df9-81c5-337128100a2b",
+      "tenant_id": "d0ed2682-16a8-5a52-9904-8a7f3f0d9e7b"
+    },
+    "allowed_tenant_id": "d0ed2682-16a8-5a52-9904-8a7f3f0d9e7b",
+    "denied_tenant_id": "1a6d6e6a-2ddd-5d29-94bc-3689eca640cb",
+    "synthetic": true
+  },
+  {
+    "case_id": "02d41dae-f449-5f7c-b8a6-883307dd8c47",
+    "actor": {
+      "id": "5599ade0-c91b-5337-ad39-6b84eaa37366",
+      "tenant_id": "be7a6b2b-634e-5953-866e-8b5d867329f3"
+    },
+    "allowed_tenant_id": "be7a6b2b-634e-5953-866e-8b5d867329f3",
+    "denied_tenant_id": "39a48b61-5bb4-58b5-afbb-afc9c7c31d83",
+    "synthetic": true
+  },
+  {
+    "case_id": "4a875d15-4a7b-5430-8c8e-3e99fb878c67",
+    "actor": {
+      "id": "c8eed354-bde3-5e5c-9221-915eac18d1c0",
+      "tenant_id": "0221433c-0f68-56db-904d-d31f64444289"
+    },
+    "allowed_tenant_id": "0221433c-0f68-56db-904d-d31f64444289",
+    "denied_tenant_id": "a319e93b-b67b-5abd-99d4-04b0df2d0c9b",
+    "synthetic": true
+  },
+  {
+    "case_id": "e4de96d7-051a-5936-a199-7233c16818ef",
+    "actor": {
+      "id": "43f1d4cc-93d3-5e59-a717-10b375bd6e02",
+      "tenant_id": "b778f8d1-01d3-587f-96fd-283b9fb9b0bb"
+    },
+    "allowed_tenant_id": "b778f8d1-01d3-587f-96fd-283b9fb9b0bb",
+    "denied_tenant_id": "5633b7c3-a0d3-58a9-88d5-1cc335d9f2d5",
+    "synthetic": true
+  },
+  {
+    "case_id": "fb5c22d3-e299-57dd-9eda-f2a66f53bd76",
+    "actor": {
+      "id": "d117a4c0-0a0f-528d-b683-57084b92c9a6",
+      "tenant_id": "a9d52521-10d1-5f85-8f60-a942e856a66a"
+    },
+    "allowed_tenant_id": "a9d52521-10d1-5f85-8f60-a942e856a66a",
+    "denied_tenant_id": "7cee7b98-0e80-5dcf-b1a4-3faa6db35ee1",
+    "synthetic": true
+  },
+  {
+    "case_id": "02a7a184-b27d-5e43-89e8-6fb7d6b68e6c",
+    "actor": {
+      "id": "612a0a0b-3da6-5697-9834-52ce848de224",
+      "tenant_id": "b512c972-2ac6-59d6-9758-202c02fd9e42"
+    },
+    "allowed_tenant_id": "b512c972-2ac6-59d6-9758-202c02fd9e42",
+    "denied_tenant_id": "907b1684-80bf-53f8-b2ce-e9725b7ac35f",
+    "synthetic": true
+  },
+  {
+    "case_id": "c9c41a26-c9cf-5069-a3d8-558815e9369f",
+    "actor": {
+      "id": "d18e9c1d-0fdf-5314-981e-f395b7d249b8",
+      "tenant_id": "cdc2529b-3331-59ff-bf4c-9c0f62542283"
+    },
+    "allowed_tenant_id": "cdc2529b-3331-59ff-bf4c-9c0f62542283",
+    "denied_tenant_id": "1f674fe1-7e1a-5303-b956-72cee81c476f",
+    "synthetic": true
+  },
+  {
+    "case_id": "239e7328-4367-51ff-b111-98e92ea49de1",
+    "actor": {
+      "id": "786d9134-b879-5fcb-b903-ea9a90ef5cc3",
+      "tenant_id": "618d582c-225e-5407-bfa4-087cbabc827c"
+    },
+    "allowed_tenant_id": "618d582c-225e-5407-bfa4-087cbabc827c",
+    "denied_tenant_id": "55aa69f5-c63d-5a33-a678-6d39a0603f42",
+    "synthetic": true
+  },
+  {
+    "case_id": "de8f642d-5c4e-5276-9674-59180553ef3b",
+    "actor": {
+      "id": "a419de26-ab20-51ff-be10-6117883590ab",
+      "tenant_id": "573eae24-ca87-545b-822d-8bef319279bb"
+    },
+    "allowed_tenant_id": "573eae24-ca87-545b-822d-8bef319279bb",
+    "denied_tenant_id": "d97ed186-a300-5032-9fbe-6cfa243509c3",
+    "synthetic": true
+  },
+  {
+    "case_id": "8a847806-2cf9-5a3c-80c9-bd82fcf281f1",
+    "actor": {
+      "id": "4dc5b739-c9bc-5943-9bd4-e214066d0ade",
+      "tenant_id": "28a68937-1fc3-52fb-aed0-42a32632953c"
+    },
+    "allowed_tenant_id": "28a68937-1fc3-52fb-aed0-42a32632953c",
+    "denied_tenant_id": "1bece39a-58a0-50a6-aad7-25b76490ed82",
+    "synthetic": true
+  },
+  {
+    "case_id": "d987c2c2-a0a5-5cd9-afc5-52547a1fb4b1",
+    "actor": {
+      "id": "fc77857e-f46c-5884-9ef7-317548c8b04b",
+      "tenant_id": "38e2c07b-892a-5f66-ab02-6bd535455dfe"
+    },
+    "allowed_tenant_id": "38e2c07b-892a-5f66-ab02-6bd535455dfe",
+    "denied_tenant_id": "36cf4357-8672-5c6f-b211-7ecf8477e2df",
+    "synthetic": true
+  },
+  {
+    "case_id": "46e55525-d1d8-5d12-bd8d-dc3b220954fa",
+    "actor": {
+      "id": "e3689a9f-ba45-51c3-b1de-35b878166f01",
+      "tenant_id": "67827bfb-7581-5f47-a5b2-da228952aa33"
+    },
+    "allowed_tenant_id": "67827bfb-7581-5f47-a5b2-da228952aa33",
+    "denied_tenant_id": "0438fd49-45f4-56a0-a1c7-23441160f9de",
+    "synthetic": true
+  },
+  {
+    "case_id": "6ac4b419-098c-5a11-a53a-9296d44fe381",
+    "actor": {
+      "id": "ffce7796-2ac3-5f7e-a838-35c73cb93cb4",
+      "tenant_id": "99fa8310-113e-5f32-82a7-efbf73137bcc"
+    },
+    "allowed_tenant_id": "99fa8310-113e-5f32-82a7-efbf73137bcc",
+    "denied_tenant_id": "39b1a9bb-6c69-5d88-9667-b711f74f9252",
+    "synthetic": true
+  },
+  {
+    "case_id": "508d398a-5850-5d5f-adb0-cb29daefa804",
+    "actor": {
+      "id": "db7c1eca-38ce-5d2d-b093-46f8e39ac6e1",
+      "tenant_id": "0669a3b1-d4f2-57ce-a565-ecd64a83d8f9"
+    },
+    "allowed_tenant_id": "0669a3b1-d4f2-57ce-a565-ecd64a83d8f9",
+    "denied_tenant_id": "d618684b-4109-5be9-ba12-be2882767e7f",
+    "synthetic": true
+  },
+  {
+    "case_id": "3f5baf29-9c09-5fca-820f-f9571d5c1803",
+    "actor": {
+      "id": "6b422edb-a9d2-5322-aaf1-596301190f8d",
+      "tenant_id": "8785b4e2-5795-5115-9d61-16f572bdde07"
+    },
+    "allowed_tenant_id": "8785b4e2-5795-5115-9d61-16f572bdde07",
+    "denied_tenant_id": "22e5baab-e551-5758-9918-5daa4e9aac05",
+    "synthetic": true
+  },
+  {
+    "case_id": "e06e5ff3-7fba-5b8c-9885-91b881e11aed",
+    "actor": {
+      "id": "631e75a3-faaf-5d29-9bf6-74e7bbe52075",
+      "tenant_id": "f4190b23-4be8-57fe-b3e5-9c2a51941807"
+    },
+    "allowed_tenant_id": "f4190b23-4be8-57fe-b3e5-9c2a51941807",
+    "denied_tenant_id": "4dba9e72-2ae5-5c40-bd86-91399880a98e",
+    "synthetic": true
+  },
+  {
+    "case_id": "a634dcdf-f8ed-581f-ada5-aa281355f30e",
+    "actor": {
+      "id": "19f920d6-8a9f-5e7f-9b5a-b505740b8949",
+      "tenant_id": "33178857-21c2-5937-a196-17d03f009882"
+    },
+    "allowed_tenant_id": "33178857-21c2-5937-a196-17d03f009882",
+    "denied_tenant_id": "f4a1b841-311b-5da1-9e59-0a0b033ac4b5",
+    "synthetic": true
+  },
+  {
+    "case_id": "1737bf48-cc52-5121-a5f8-58a9e9f19b09",
+    "actor": {
+      "id": "57840719-1e9f-59c9-9f6e-df1111727cd3",
+      "tenant_id": "5b144e66-3cfd-5afe-843f-3dc1cf7bb354"
+    },
+    "allowed_tenant_id": "5b144e66-3cfd-5afe-843f-3dc1cf7bb354",
+    "denied_tenant_id": "cd28afc5-2239-559b-b7ec-047c89bb9a6d",
+    "synthetic": true
+  },
+  {
+    "case_id": "1d9b1005-db64-54fc-be11-e081a0d89d41",
+    "actor": {
+      "id": "29d568c9-2867-52e2-9433-14f565bd33f1",
+      "tenant_id": "7b3c4cc9-5ee1-5fb5-afa1-4c51bb8e22b0"
+    },
+    "allowed_tenant_id": "7b3c4cc9-5ee1-5fb5-afa1-4c51bb8e22b0",
+    "denied_tenant_id": "984c36bd-af53-525d-93d2-0a255e9b1235",
+    "synthetic": true
+  },
+  {
+    "case_id": "7b3f9c89-3bef-5ecc-96fa-f4c2b1840cf4",
+    "actor": {
+      "id": "222bc0b3-84c3-5410-9c80-23f772bb596d",
+      "tenant_id": "46d77e98-7592-57dd-8d34-31f85f145fca"
+    },
+    "allowed_tenant_id": "46d77e98-7592-57dd-8d34-31f85f145fca",
+    "denied_tenant_id": "cf71110c-80e8-59cf-ab11-7bf3a6b752f5",
+    "synthetic": true
+  },
+  {
+    "case_id": "cd2c2834-8762-58de-a3fa-01cf56ea2753",
+    "actor": {
+      "id": "4be56554-f547-55c4-89b7-40035d99173d",
+      "tenant_id": "07bb7cce-94fe-572b-b56b-b65531d927f3"
+    },
+    "allowed_tenant_id": "07bb7cce-94fe-572b-b56b-b65531d927f3",
+    "denied_tenant_id": "9e3990bb-ca2e-5323-a3d1-9240782348d6",
+    "synthetic": true
+  },
+  {
+    "case_id": "30393d74-49a7-57a0-989d-3cde667f70cf",
+    "actor": {
+      "id": "06d9b90b-a5d9-5dff-a6fd-80223f4105a7",
+      "tenant_id": "d3d01941-0072-516d-a378-6e7a85237f74"
+    },
+    "allowed_tenant_id": "d3d01941-0072-516d-a378-6e7a85237f74",
+    "denied_tenant_id": "68747504-01d3-5ac6-a693-77b7d62578b2",
+    "synthetic": true
+  },
+  {
+    "case_id": "ff0afc5f-15b8-574d-90f1-25cdd0b4c035",
+    "actor": {
+      "id": "e76bcad5-7a92-5123-affb-c9dc64065e01",
+      "tenant_id": "f0357654-4620-5130-a731-cae3a4842ccf"
+    },
+    "allowed_tenant_id": "f0357654-4620-5130-a731-cae3a4842ccf",
+    "denied_tenant_id": "5ac37c31-d746-5c01-948b-ee3b8b2f0be7",
+    "synthetic": true
+  },
+  {
+    "case_id": "3084fb01-6295-5655-9eaa-c2b84302a324",
+    "actor": {
+      "id": "fdb5cb5b-070c-500e-87f3-36e1c925cf2c",
+      "tenant_id": "b52081be-b5f8-519a-973d-351c7c39f4d5"
+    },
+    "allowed_tenant_id": "b52081be-b5f8-519a-973d-351c7c39f4d5",
+    "denied_tenant_id": "17eaaf20-60b5-57a2-8141-fe562576dbb7",
+    "synthetic": true
+  },
+  {
+    "case_id": "66bc9923-e80b-51cd-84ef-f2ca51e24b74",
+    "actor": {
+      "id": "ee2462d6-31ef-5fb2-9719-1529fa227acb",
+      "tenant_id": "7f407a7e-5d5e-56cd-8335-37abb32f3fb3"
+    },
+    "allowed_tenant_id": "7f407a7e-5d5e-56cd-8335-37abb32f3fb3",
+    "denied_tenant_id": "721f823d-ddbf-5e93-8fed-c8190f45b425",
+    "synthetic": true
+  },
+  {
+    "case_id": "de34fce0-a9b1-5b80-bda1-e683464f47b6",
+    "actor": {
+      "id": "92eabb94-7905-505f-869e-4e4554c5c665",
+      "tenant_id": "a2510982-8408-5980-8d6b-e39e460a8410"
+    },
+    "allowed_tenant_id": "a2510982-8408-5980-8d6b-e39e460a8410",
+    "denied_tenant_id": "4a24fa33-cd1e-58dc-8ddf-6a711e748975",
+    "synthetic": true
+  },
+  {
+    "case_id": "a271fc4e-33bd-56fd-8d30-013f7570483e",
+    "actor": {
+      "id": "5056b449-1f1f-5b79-8754-4919272bcac4",
+      "tenant_id": "c2c9e3bb-dcbf-5aa8-8589-dab1bee21192"
+    },
+    "allowed_tenant_id": "c2c9e3bb-dcbf-5aa8-8589-dab1bee21192",
+    "denied_tenant_id": "d6e0a727-4f9d-559a-b267-a6e1c8ced225",
+    "synthetic": true
+  },
+  {
+    "case_id": "7adbfa7b-fc50-5bc2-8457-343d8a481d62",
+    "actor": {
+      "id": "d948c63b-57e6-5af6-8733-b41df6c48fa4",
+      "tenant_id": "d0b89834-fd9d-51f0-bab4-db93ed8f4f33"
+    },
+    "allowed_tenant_id": "d0b89834-fd9d-51f0-bab4-db93ed8f4f33",
+    "denied_tenant_id": "6ac8fb03-eef7-5f4f-8286-749b78c7d4b0",
+    "synthetic": true
+  },
+  {
+    "case_id": "a7f68a38-7bee-56e9-9e78-b5738907f8c9",
+    "actor": {
+      "id": "0d6cc070-a8f9-5e24-a937-5583e3f76f61",
+      "tenant_id": "d86c7913-e90c-5267-93b8-226c946be2d9"
+    },
+    "allowed_tenant_id": "d86c7913-e90c-5267-93b8-226c946be2d9",
+    "denied_tenant_id": "50238fd4-5213-527a-acef-9a94af42751f",
+    "synthetic": true
+  },
+  {
+    "case_id": "a139bd7a-f597-5afb-a117-444cc3867fe4",
+    "actor": {
+      "id": "37ca2de8-f19f-54de-a6a1-d9ffd2897319",
+      "tenant_id": "369d6d45-04ec-5a25-8114-dcfef93eca85"
+    },
+    "allowed_tenant_id": "369d6d45-04ec-5a25-8114-dcfef93eca85",
+    "denied_tenant_id": "0e2357e8-05c9-52dc-90db-0bdcf5ed7701",
+    "synthetic": true
+  },
+  {
+    "case_id": "56fdd48c-52ef-51ab-b50a-fb14135be9b0",
+    "actor": {
+      "id": "8a31ebcd-a3b7-5b77-bfe9-3bf412185947",
+      "tenant_id": "1e9d59a8-446e-5edb-a828-4ede8f4e52a8"
+    },
+    "allowed_tenant_id": "1e9d59a8-446e-5edb-a828-4ede8f4e52a8",
+    "denied_tenant_id": "cd4a9c76-b87d-53e1-87ea-2b3e24c8b9b0",
+    "synthetic": true
+  },
+  {
+    "case_id": "bcb19d51-e3b5-5f79-9a8b-2787fba3a64c",
+    "actor": {
+      "id": "c7bd780d-a2a1-5e55-be0b-5d7e5d9e6a76",
+      "tenant_id": "dd3ba40a-cdd6-5ec9-bcff-15dded04d8bc"
+    },
+    "allowed_tenant_id": "dd3ba40a-cdd6-5ec9-bcff-15dded04d8bc",
+    "denied_tenant_id": "92b4833c-0d7e-50a8-a9c6-3f1d854f3fe9",
+    "synthetic": true
+  },
+  {
+    "case_id": "5c51dcca-f043-54a1-b324-3d0303edd22a",
+    "actor": {
+      "id": "4348a6d5-c3e5-5ed2-84c6-3e790bac21e1",
+      "tenant_id": "061e26d0-527d-59eb-bf57-07a5973c6afd"
+    },
+    "allowed_tenant_id": "061e26d0-527d-59eb-bf57-07a5973c6afd",
+    "denied_tenant_id": "79a671af-5af4-5530-bcf5-c115ed6b02ef",
+    "synthetic": true
+  },
+  {
+    "case_id": "1b7a3ecf-1649-5a9b-820d-29848d810df4",
+    "actor": {
+      "id": "95f4246e-e5c3-51c7-a4cb-6e803aa02e03",
+      "tenant_id": "f31c95a8-029d-5d7f-a33b-6fa04f392f12"
+    },
+    "allowed_tenant_id": "f31c95a8-029d-5d7f-a33b-6fa04f392f12",
+    "denied_tenant_id": "b8c2170a-726b-5961-8987-e58cf2fdc71d",
+    "synthetic": true
+  },
+  {
+    "case_id": "6201f9fe-9af3-5735-a31e-6335341f88a4",
+    "actor": {
+      "id": "5250d03e-f27f-50b4-9dcc-ca4a0a2a2c52",
+      "tenant_id": "adbf8a08-ad94-5d4d-a2e3-29724d2df5fb"
+    },
+    "allowed_tenant_id": "adbf8a08-ad94-5d4d-a2e3-29724d2df5fb",
+    "denied_tenant_id": "33f84b1f-cddd-5b3e-96b5-9ddcf9646796",
+    "synthetic": true
+  },
+  {
+    "case_id": "20b18a3a-6d0c-5cfd-9616-e9cbb1039432",
+    "actor": {
+      "id": "8bd565ad-c96d-5d7e-87ea-2d84c0f9a337",
+      "tenant_id": "a43ee95b-1686-51e3-94b4-0251b2474031"
+    },
+    "allowed_tenant_id": "a43ee95b-1686-51e3-94b4-0251b2474031",
+    "denied_tenant_id": "e5ec89ce-4617-59fc-9f82-6f722e288d67",
+    "synthetic": true
+  },
+  {
+    "case_id": "6bb7b458-94bf-5a30-8326-9c897ada5a3b",
+    "actor": {
+      "id": "3783c793-e032-5e7b-ba2b-11733a7ac44a",
+      "tenant_id": "6edd3317-a77e-5138-9535-39341540725e"
+    },
+    "allowed_tenant_id": "6edd3317-a77e-5138-9535-39341540725e",
+    "denied_tenant_id": "0c24a2f1-c954-5914-a6fa-8f559ab351b3",
+    "synthetic": true
+  },
+  {
+    "case_id": "9d59bc52-3458-5e29-b9e5-f70aa41d5f05",
+    "actor": {
+      "id": "06df6edf-ca73-57d7-a971-9ccf78b028be",
+      "tenant_id": "0ff0054e-d2b1-5734-9a47-0efda5ca57e9"
+    },
+    "allowed_tenant_id": "0ff0054e-d2b1-5734-9a47-0efda5ca57e9",
+    "denied_tenant_id": "65d4f10b-f7a4-5c14-8b29-77733feaf4a9",
+    "synthetic": true
+  },
+  {
+    "case_id": "6cc1c744-d5c9-581e-93ea-c1909d334067",
+    "actor": {
+      "id": "83e603f0-63e4-5e3d-9490-ec540cd3747c",
+      "tenant_id": "2bef8cd7-c20a-52c5-b76c-0cfb9431de43"
+    },
+    "allowed_tenant_id": "2bef8cd7-c20a-52c5-b76c-0cfb9431de43",
+    "denied_tenant_id": "5363301b-1793-543f-a893-9d339af21621",
+    "synthetic": true
+  },
+  {
+    "case_id": "dbbb79e0-1f1c-5c71-9db3-6ed1e85ce336",
+    "actor": {
+      "id": "a81eb6f7-8967-52c0-9c20-c0316fa2d7d0",
+      "tenant_id": "de20d131-05c2-55f1-91b6-129addbfe86a"
+    },
+    "allowed_tenant_id": "de20d131-05c2-55f1-91b6-129addbfe86a",
+    "denied_tenant_id": "8d01d8bc-d43a-5f77-9af5-70c576e508b4",
+    "synthetic": true
+  },
+  {
+    "case_id": "059fd75b-9abe-5374-89f7-91812b236845",
+    "actor": {
+      "id": "1072cb45-0b6b-57e5-b6bc-10b953acfc15",
+      "tenant_id": "30f36162-385f-500b-b047-023cb69efc43"
+    },
+    "allowed_tenant_id": "30f36162-385f-500b-b047-023cb69efc43",
+    "denied_tenant_id": "1dc55514-6c85-5ef9-a182-ebbe46c848b1",
+    "synthetic": true
+  },
+  {
+    "case_id": "cc709533-3ae0-5612-8bf5-f2b07101a1fd",
+    "actor": {
+      "id": "36060ba8-d86b-5ade-98b1-2e798f872840",
+      "tenant_id": "1233ca60-f10b-5a7a-a014-9e52bc4b595b"
+    },
+    "allowed_tenant_id": "1233ca60-f10b-5a7a-a014-9e52bc4b595b",
+    "denied_tenant_id": "f5d4bc86-d3c0-552f-886f-440f581b0a2a",
+    "synthetic": true
+  },
+  {
+    "case_id": "d1d364f4-dbc4-573d-b347-e6b0e259cc81",
+    "actor": {
+      "id": "2933382d-f48e-56d2-bbe4-8c32ed4f0720",
+      "tenant_id": "457a8c1a-791f-5f3a-a92f-5a7d391f53a0"
+    },
+    "allowed_tenant_id": "457a8c1a-791f-5f3a-a92f-5a7d391f53a0",
+    "denied_tenant_id": "c4e2f2fa-b6b9-5855-a83c-21042a3b45ae",
+    "synthetic": true
+  },
+  {
+    "case_id": "cbcce0db-e4bd-59b1-a21c-411515a469ba",
+    "actor": {
+      "id": "a1aaab10-a31b-5eae-bf89-d751bdd6d326",
+      "tenant_id": "f7b0525d-0e8d-5dbd-b763-46b06754d386"
+    },
+    "allowed_tenant_id": "f7b0525d-0e8d-5dbd-b763-46b06754d386",
+    "denied_tenant_id": "9803de01-3b4d-5b67-b64d-d24bd75a3d48",
+    "synthetic": true
+  },
+  {
+    "case_id": "a2982de9-8a22-52f1-810f-07886e112320",
+    "actor": {
+      "id": "e8856061-358f-5b54-bb58-c7b55723cd50",
+      "tenant_id": "53f05c7b-8ccd-5d1e-9165-1c558ee6e1bb"
+    },
+    "allowed_tenant_id": "53f05c7b-8ccd-5d1e-9165-1c558ee6e1bb",
+    "denied_tenant_id": "f08639d7-4345-5758-aa37-f7d367d5be31",
+    "synthetic": true
+  },
+  {
+    "case_id": "808853fe-41e8-5711-900e-e24393f09400",
+    "actor": {
+      "id": "2503adae-d9d4-55ff-917e-44b70e75e53f",
+      "tenant_id": "65b78519-a5a6-55b6-8a05-1d2c021db911"
+    },
+    "allowed_tenant_id": "65b78519-a5a6-55b6-8a05-1d2c021db911",
+    "denied_tenant_id": "8d9c31ab-d87b-5214-8f44-b501b773269d",
+    "synthetic": true
+  },
+  {
+    "case_id": "672d9117-c049-503f-b177-e203173f6ceb",
+    "actor": {
+      "id": "2b5c151c-74f5-5ced-bbb3-a5b134a93393",
+      "tenant_id": "9e48fe7f-79ce-5eb8-8d2b-945372b50c01"
+    },
+    "allowed_tenant_id": "9e48fe7f-79ce-5eb8-8d2b-945372b50c01",
+    "denied_tenant_id": "c7188e2e-1230-52c2-83a7-676e47578d42",
+    "synthetic": true
+  },
+  {
+    "case_id": "13b06ac2-8a58-5942-ac79-729c756ee8f6",
+    "actor": {
+      "id": "82c5d4b7-063a-54f4-9461-5309eca2abf3",
+      "tenant_id": "088792b1-c686-56ec-8fa6-2a76b9b11900"
+    },
+    "allowed_tenant_id": "088792b1-c686-56ec-8fa6-2a76b9b11900",
+    "denied_tenant_id": "d17ddb82-fa36-5014-b364-89d26ad940be",
+    "synthetic": true
+  },
+  {
+    "case_id": "eff4040b-d184-5308-84a3-70258cc88e83",
+    "actor": {
+      "id": "9def60de-0bab-5d95-8ecb-597e90f237b7",
+      "tenant_id": "d0568b05-4b1a-5394-befb-10e1a6305209"
+    },
+    "allowed_tenant_id": "d0568b05-4b1a-5394-befb-10e1a6305209",
+    "denied_tenant_id": "474c58f6-13c3-545c-b93b-71eec283d495",
+    "synthetic": true
+  },
+  {
+    "case_id": "965016f2-fbf8-56ac-83d8-102cbba5f5d5",
+    "actor": {
+      "id": "b8e74a12-1550-5828-8ce9-941afd1f4a4d",
+      "tenant_id": "dc55f8c8-c944-5fa4-a168-09d936bee556"
+    },
+    "allowed_tenant_id": "dc55f8c8-c944-5fa4-a168-09d936bee556",
+    "denied_tenant_id": "e9176f2e-336d-51de-9e10-a92fe6d393c3",
+    "synthetic": true
+  },
+  {
+    "case_id": "70d704c5-1d19-5759-b51c-98441ab9746f",
+    "actor": {
+      "id": "e217f22e-e2a7-5a42-837a-f6ba3b1ecf6b",
+      "tenant_id": "5b1a63c2-707b-53db-9035-e214ad94f844"
+    },
+    "allowed_tenant_id": "5b1a63c2-707b-53db-9035-e214ad94f844",
+    "denied_tenant_id": "7ec79ba1-f066-59f3-96e3-289036d8e280",
+    "synthetic": true
+  },
+  {
+    "case_id": "d75a0215-a3aa-578a-8af3-fc882bb49351",
+    "actor": {
+      "id": "a44685e2-70b7-5262-82bc-84b21f62912f",
+      "tenant_id": "25ca8fab-dfe9-52ce-8cef-494dac9f4f20"
+    },
+    "allowed_tenant_id": "25ca8fab-dfe9-52ce-8cef-494dac9f4f20",
+    "denied_tenant_id": "a9a4b187-0fe0-5bb2-a45b-5aa76e1645c4",
+    "synthetic": true
+  },
+  {
+    "case_id": "ffb39b64-0445-5acb-af9f-feb0c1f68c50",
+    "actor": {
+      "id": "5354862d-3a48-5895-a5a4-ac1b690f8136",
+      "tenant_id": "eb1616d0-6f64-5dd4-93ad-a90c8a47d046"
+    },
+    "allowed_tenant_id": "eb1616d0-6f64-5dd4-93ad-a90c8a47d046",
+    "denied_tenant_id": "41d68047-0056-5250-9da9-564f73093af7",
+    "synthetic": true
+  },
+  {
+    "case_id": "2bd62190-78be-503a-bd94-0f4a599631a0",
+    "actor": {
+      "id": "5db9c619-e16d-51e7-af3f-5991b06c9e66",
+      "tenant_id": "49fc015b-a140-5ada-a108-191e52f3706e"
+    },
+    "allowed_tenant_id": "49fc015b-a140-5ada-a108-191e52f3706e",
+    "denied_tenant_id": "0b63ec59-392e-5038-b90a-5034255917e7",
+    "synthetic": true
+  },
+  {
+    "case_id": "4966acf7-42eb-5005-beb5-124651a800bf",
+    "actor": {
+      "id": "93ebb3a0-d69f-5384-9dc4-bdbc073d6100",
+      "tenant_id": "c9e981ce-5f4f-5453-b1cd-39e174e215f5"
+    },
+    "allowed_tenant_id": "c9e981ce-5f4f-5453-b1cd-39e174e215f5",
+    "denied_tenant_id": "0a14391e-108a-5688-8163-a8164a43568d",
+    "synthetic": true
+  },
+  {
+    "case_id": "00111999-af66-5875-9bbb-7f73679690f5",
+    "actor": {
+      "id": "a612cf26-243f-572c-a94b-cdc3f2a0e45e",
+      "tenant_id": "4a2f058d-26f5-5a29-854f-60282d5f4487"
+    },
+    "allowed_tenant_id": "4a2f058d-26f5-5a29-854f-60282d5f4487",
+    "denied_tenant_id": "8ae115e9-00a8-5fbe-bba5-5683ff58a940",
+    "synthetic": true
+  },
+  {
+    "case_id": "27e33b88-abf2-56af-a966-c0a1bd6306f6",
+    "actor": {
+      "id": "afe0a73e-a223-5d5c-b163-e597c887d2f4",
+      "tenant_id": "e6e27431-b80e-5e90-90fd-c092d682f3e2"
+    },
+    "allowed_tenant_id": "e6e27431-b80e-5e90-90fd-c092d682f3e2",
+    "denied_tenant_id": "36ac7add-a9a1-5f70-b9ac-5934ef33138a",
+    "synthetic": true
+  },
+  {
+    "case_id": "eeaf971b-43d1-528b-acc2-e40fac5c53af",
+    "actor": {
+      "id": "d22c2692-c791-574c-9055-0aadf670a1f3",
+      "tenant_id": "b907d192-d40a-572c-affb-a0166043fc3e"
+    },
+    "allowed_tenant_id": "b907d192-d40a-572c-affb-a0166043fc3e",
+    "denied_tenant_id": "773d0b06-682a-5c61-9e53-e4231fd9e5cb",
+    "synthetic": true
+  },
+  {
+    "case_id": "4ad95121-f3df-5172-913f-152591e9de11",
+    "actor": {
+      "id": "a3608332-44db-551b-afc7-7f94601575e4",
+      "tenant_id": "f66a747c-1df1-5445-8dcc-a9578f5d080a"
+    },
+    "allowed_tenant_id": "f66a747c-1df1-5445-8dcc-a9578f5d080a",
+    "denied_tenant_id": "79de3953-9a2d-573c-b2b3-784982c395da",
+    "synthetic": true
+  },
+  {
+    "case_id": "28363b8d-8f2a-5f89-a28c-37259cf676e3",
+    "actor": {
+      "id": "e3d35c09-a271-5566-bdaf-7ed11dab5cdd",
+      "tenant_id": "09eab813-baff-579c-9cfc-300d49381e4d"
+    },
+    "allowed_tenant_id": "09eab813-baff-579c-9cfc-300d49381e4d",
+    "denied_tenant_id": "e4b4539d-3580-55a1-b07a-31f3292b5bfa",
+    "synthetic": true
+  },
+  {
+    "case_id": "410a832b-4807-5d14-b3a7-e375a7b2f4e9",
+    "actor": {
+      "id": "9f8fef1c-c8b5-5be5-ae25-6214ddf86e09",
+      "tenant_id": "fe06416b-dd5a-5654-ae99-d27bfb43bd4b"
+    },
+    "allowed_tenant_id": "fe06416b-dd5a-5654-ae99-d27bfb43bd4b",
+    "denied_tenant_id": "1e1e5776-abe5-58e8-acff-b3f97a53644d",
+    "synthetic": true
+  },
+  {
+    "case_id": "ff903637-44fd-5070-a820-68cc40bc731e",
+    "actor": {
+      "id": "51b71b38-ed95-5fd2-94e1-694e9adbc400",
+      "tenant_id": "be8623d5-9287-5277-a45d-0a476199e5e4"
+    },
+    "allowed_tenant_id": "be8623d5-9287-5277-a45d-0a476199e5e4",
+    "denied_tenant_id": "c946e1ca-46e2-5115-bcd8-79e7c6281e16",
+    "synthetic": true
+  },
+  {
+    "case_id": "45ce48d9-72f5-56a2-a223-c2ee6b0439dd",
+    "actor": {
+      "id": "f0d4946e-82a0-56f7-a114-691f0913f8b0",
+      "tenant_id": "c4aa584b-8f0a-560b-ba44-a834d1662501"
+    },
+    "allowed_tenant_id": "c4aa584b-8f0a-560b-ba44-a834d1662501",
+    "denied_tenant_id": "9e1d9187-8d73-5052-a659-4fd66ddc8007",
+    "synthetic": true
+  },
+  {
+    "case_id": "fe7d0101-6ab8-5815-8170-7b2b5102dbf8",
+    "actor": {
+      "id": "718964b0-d4c3-5f63-8d26-cd2ba3962cf3",
+      "tenant_id": "39d57d9b-19a2-5c8a-b68a-60786c133fb9"
+    },
+    "allowed_tenant_id": "39d57d9b-19a2-5c8a-b68a-60786c133fb9",
+    "denied_tenant_id": "b36b0c17-7a25-559d-b431-4301db621a7c",
+    "synthetic": true
+  },
+  {
+    "case_id": "4d5d4505-debe-538b-a6e6-b69446bd7494",
+    "actor": {
+      "id": "0086c81e-faba-57bd-b22a-5524ecec142a",
+      "tenant_id": "bad89261-1188-5b52-900f-b2691dbaef8e"
+    },
+    "allowed_tenant_id": "bad89261-1188-5b52-900f-b2691dbaef8e",
+    "denied_tenant_id": "7230c4a1-5321-5eb0-b1d0-21fccadb75a4",
+    "synthetic": true
+  },
+  {
+    "case_id": "57e3572f-2211-5707-b08e-22187609de41",
+    "actor": {
+      "id": "3af5a9cf-0a8c-5b12-b866-09b4814f925d",
+      "tenant_id": "55fdf8a9-9ff4-5f06-a7a1-8c31a2ddf988"
+    },
+    "allowed_tenant_id": "55fdf8a9-9ff4-5f06-a7a1-8c31a2ddf988",
+    "denied_tenant_id": "3533f889-cf39-57a4-87c1-dadfbf823ca0",
+    "synthetic": true
+  },
+  {
+    "case_id": "cbc234d2-2fe0-5e2d-9ab4-2bc62426cd12",
+    "actor": {
+      "id": "d8c45762-db16-5b9b-a876-8e6d9da54bef",
+      "tenant_id": "26d0766a-3dc9-554d-9610-f75b21b6f0cf"
+    },
+    "allowed_tenant_id": "26d0766a-3dc9-554d-9610-f75b21b6f0cf",
+    "denied_tenant_id": "283557be-7bbf-55be-a813-be88c9276ec4",
+    "synthetic": true
+  },
+  {
+    "case_id": "c4fb5b56-0c14-5620-9039-c31ea0f1e32c",
+    "actor": {
+      "id": "3a2ec286-e0b3-5e67-ab00-084d054d6362",
+      "tenant_id": "85400060-54f7-5b89-9054-e79ae9138f88"
+    },
+    "allowed_tenant_id": "85400060-54f7-5b89-9054-e79ae9138f88",
+    "denied_tenant_id": "acb59af8-41aa-5740-bb5a-5375f091b09a",
+    "synthetic": true
+  },
+  {
+    "case_id": "99611a75-6754-552e-9db7-4688c8d7e4c1",
+    "actor": {
+      "id": "749f3d12-5ba1-5261-86ed-b3a7c5b6f5d4",
+      "tenant_id": "4456f118-2313-5c63-ab4d-70ebc852e467"
+    },
+    "allowed_tenant_id": "4456f118-2313-5c63-ab4d-70ebc852e467",
+    "denied_tenant_id": "9225d0de-9510-5436-95e5-dc7b59511550",
+    "synthetic": true
+  },
+  {
+    "case_id": "81d41e90-ed6c-579e-b7d8-b2fb5177f743",
+    "actor": {
+      "id": "80b14e9c-8e0b-5d2e-9e7e-aaa495cf3de2",
+      "tenant_id": "fc922360-75cd-524b-987d-3ee41b99ef67"
+    },
+    "allowed_tenant_id": "fc922360-75cd-524b-987d-3ee41b99ef67",
+    "denied_tenant_id": "92ae8b17-eb23-533a-a125-42add232c2ce",
+    "synthetic": true
+  },
+  {
+    "case_id": "0fac15cd-386c-5397-9847-869e67421a67",
+    "actor": {
+      "id": "53a67384-46e3-5c14-9dd2-42cba7fff805",
+      "tenant_id": "7a73f09b-8c76-5409-aeb5-c2684773a712"
+    },
+    "allowed_tenant_id": "7a73f09b-8c76-5409-aeb5-c2684773a712",
+    "denied_tenant_id": "54dc1567-82e7-549d-a944-ed6443344b92",
+    "synthetic": true
+  },
+  {
+    "case_id": "901c2ae4-9f66-54fc-978d-bc14cdcb7fb0",
+    "actor": {
+      "id": "d4fd23a9-2eb2-5d72-a5eb-d5bdc3182302",
+      "tenant_id": "9381fd12-1444-5f78-9066-6b4974918139"
+    },
+    "allowed_tenant_id": "9381fd12-1444-5f78-9066-6b4974918139",
+    "denied_tenant_id": "66cd86e6-3b1e-541a-9195-7d1d917e88ce",
+    "synthetic": true
+  },
+  {
+    "case_id": "fd70906d-4b2d-55d9-ba30-c5a0f01da715",
+    "actor": {
+      "id": "6ad27c70-9a3c-5c35-8cea-dbca935e1edb",
+      "tenant_id": "924295d7-8cfa-5f95-a07d-43c6d2a9f0e3"
+    },
+    "allowed_tenant_id": "924295d7-8cfa-5f95-a07d-43c6d2a9f0e3",
+    "denied_tenant_id": "12ce4b94-b665-5134-849c-934abadc1254",
+    "synthetic": true
+  },
+  {
+    "case_id": "d631e0b9-2e88-59f4-97bc-6dc5b1e2a867",
+    "actor": {
+      "id": "dfd97f7d-ab1d-5905-87b8-d2e573acbd41",
+      "tenant_id": "49e60fa3-2bc3-547b-98cf-a9e356d5ba43"
+    },
+    "allowed_tenant_id": "49e60fa3-2bc3-547b-98cf-a9e356d5ba43",
+    "denied_tenant_id": "aa81f789-3684-5434-9715-b7960e200215",
+    "synthetic": true
+  },
+  {
+    "case_id": "a2a8840c-f719-5316-b850-15ecde8ee0dc",
+    "actor": {
+      "id": "fef85d00-209f-583f-8aea-1332392595ff",
+      "tenant_id": "301ca947-3482-50c0-aa92-644189d43b4b"
+    },
+    "allowed_tenant_id": "301ca947-3482-50c0-aa92-644189d43b4b",
+    "denied_tenant_id": "439b9a64-042f-5193-8762-4643b62f74dd",
+    "synthetic": true
+  },
+  {
+    "case_id": "837eb84d-59f1-53a6-84fe-45e064c3fbf3",
+    "actor": {
+      "id": "2ece13d3-db5f-5003-917b-2713d6ebe7d1",
+      "tenant_id": "04f44e37-8f69-5a84-8f0f-4b65072429d1"
+    },
+    "allowed_tenant_id": "04f44e37-8f69-5a84-8f0f-4b65072429d1",
+    "denied_tenant_id": "bf4c58e0-8a84-56c9-a157-e1e3be5ec9ba",
+    "synthetic": true
+  },
+  {
+    "case_id": "c82bd43d-8548-5ea7-a1a6-141a39b853be",
+    "actor": {
+      "id": "cd220377-c871-53ed-8f51-4b837c8b69b5",
+      "tenant_id": "e394a0a8-aa9a-5001-9844-bf4180b3a48c"
+    },
+    "allowed_tenant_id": "e394a0a8-aa9a-5001-9844-bf4180b3a48c",
+    "denied_tenant_id": "d09dbe48-e93c-50d6-a1a6-d07da1b0a137",
+    "synthetic": true
+  },
+  {
+    "case_id": "ad334da1-8649-5a61-8fde-53b37040893e",
+    "actor": {
+      "id": "7cf9a62e-7a67-5a12-b426-79a9aad09e5a",
+      "tenant_id": "4fa6524f-0e64-5cf0-a440-28837ba505c7"
+    },
+    "allowed_tenant_id": "4fa6524f-0e64-5cf0-a440-28837ba505c7",
+    "denied_tenant_id": "46a40936-379b-5a9b-b8b8-d6718dfe26bb",
+    "synthetic": true
+  },
+  {
+    "case_id": "53b8583b-e0b3-5678-b1be-61e6a5799cfa",
+    "actor": {
+      "id": "f0229092-692c-5612-a355-58463019bc1d",
+      "tenant_id": "5290166a-f1a9-5225-b8c0-aad575245f17"
+    },
+    "allowed_tenant_id": "5290166a-f1a9-5225-b8c0-aad575245f17",
+    "denied_tenant_id": "a6d4d8b6-740a-5fca-a93c-ea5e2b4d9893",
+    "synthetic": true
+  },
+  {
+    "case_id": "c8b9e948-5347-5be8-b684-1b33681d8792",
+    "actor": {
+      "id": "b705c058-61f7-50fa-8768-676f2ee9e75b",
+      "tenant_id": "aba92b3d-4925-5085-8e87-4f3f12e1ba20"
+    },
+    "allowed_tenant_id": "aba92b3d-4925-5085-8e87-4f3f12e1ba20",
+    "denied_tenant_id": "4a64e39f-5aaa-5ea7-bf99-5db7bc906e0e",
+    "synthetic": true
+  },
+  {
+    "case_id": "1c45b418-9cb1-5021-8bfe-a435f995615f",
+    "actor": {
+      "id": "322b164c-e7e1-519b-b2ae-9fe07e6ab3e8",
+      "tenant_id": "8d9bf0ec-ce68-5eb7-8f87-b61263d65fc5"
+    },
+    "allowed_tenant_id": "8d9bf0ec-ce68-5eb7-8f87-b61263d65fc5",
+    "denied_tenant_id": "c9f5eff6-5ff4-52ff-881f-f4021ce70abe",
+    "synthetic": true
+  },
+  {
+    "case_id": "67db6d92-af7c-54d1-b433-119d653b84be",
+    "actor": {
+      "id": "3513a925-227d-5b24-a46e-8b5ae2c0de26",
+      "tenant_id": "366c2a04-1bf2-54d1-a8bc-ad30c86f9c7e"
+    },
+    "allowed_tenant_id": "366c2a04-1bf2-54d1-a8bc-ad30c86f9c7e",
+    "denied_tenant_id": "fe8104d4-610d-559f-af02-736aa68267b4",
+    "synthetic": true
+  },
+  {
+    "case_id": "f62bb9f7-62e4-5050-a8f2-771bfb5122c9",
+    "actor": {
+      "id": "de5b771f-da32-5ecd-99a1-28f791c93952",
+      "tenant_id": "71d40c8b-ff32-5c6d-b467-af6a642e9192"
+    },
+    "allowed_tenant_id": "71d40c8b-ff32-5c6d-b467-af6a642e9192",
+    "denied_tenant_id": "b3dcedbe-a4d9-56b5-afa9-8e1e2ba72d2d",
+    "synthetic": true
+  },
+  {
+    "case_id": "30ce96dd-9230-552f-bebb-cfff36d7611e",
+    "actor": {
+      "id": "47758eec-ec1e-5053-b187-8620dc9d89ae",
+      "tenant_id": "da0f1ea3-d0bf-59d1-8393-b50d42f25cc1"
+    },
+    "allowed_tenant_id": "da0f1ea3-d0bf-59d1-8393-b50d42f25cc1",
+    "denied_tenant_id": "e1a48359-c9e7-544a-9224-98fb2f1bbb01",
+    "synthetic": true
+  },
+  {
+    "case_id": "b1e53243-4b2a-5a66-9de3-f9fa75038e0d",
+    "actor": {
+      "id": "555eb30e-2a2e-55e8-ab33-59a4f79a9c73",
+      "tenant_id": "99bdfd06-80a5-5e73-b92f-5bb3d36594ea"
+    },
+    "allowed_tenant_id": "99bdfd06-80a5-5e73-b92f-5bb3d36594ea",
+    "denied_tenant_id": "163dc6d8-902e-54ee-b535-e62f5bbb5f75",
+    "synthetic": true
+  },
+  {
+    "case_id": "dd0bd280-43e2-5f53-8a1f-87de3e8dd887",
+    "actor": {
+      "id": "2fd588a1-ad78-555f-9826-acfd7fe9e3b1",
+      "tenant_id": "a078a472-76a7-5efe-8176-243be139f9eb"
+    },
+    "allowed_tenant_id": "a078a472-76a7-5efe-8176-243be139f9eb",
+    "denied_tenant_id": "f752a263-61e9-5a92-a37c-4220264d28c9",
+    "synthetic": true
+  },
+  {
+    "case_id": "22f94070-cd88-560c-aaf8-bcf5a4001e41",
+    "actor": {
+      "id": "c1b9f4ee-f096-5fa6-9d1b-54686f8b066a",
+      "tenant_id": "25997c04-7a27-59b3-a441-1b32867685c6"
+    },
+    "allowed_tenant_id": "25997c04-7a27-59b3-a441-1b32867685c6",
+    "denied_tenant_id": "001e61ea-1f0c-58f0-a6eb-eb734c2bbedf",
+    "synthetic": true
+  },
+  {
+    "case_id": "0b482c80-aad6-5e1a-a608-c867090a7c21",
+    "actor": {
+      "id": "34da93ad-a4b5-5656-800d-cda775f5acda",
+      "tenant_id": "5ccd0ae3-95d6-5cdd-a1b0-e313f8a0164e"
+    },
+    "allowed_tenant_id": "5ccd0ae3-95d6-5cdd-a1b0-e313f8a0164e",
+    "denied_tenant_id": "fe531c8f-aefb-58f4-9b4e-22a6b9cf5f6d",
+    "synthetic": true
+  },
+  {
+    "case_id": "7dd9ecee-6ea5-5555-9e44-b4adec508042",
+    "actor": {
+      "id": "77c01d2e-bd18-5da7-a9ba-29a463b4343f",
+      "tenant_id": "bc0b91a8-391d-568c-9aba-f32b5c2f6b6d"
+    },
+    "allowed_tenant_id": "bc0b91a8-391d-568c-9aba-f32b5c2f6b6d",
+    "denied_tenant_id": "20d058c0-4869-515a-9114-578dcfac092f",
+    "synthetic": true
+  },
+  {
+    "case_id": "bfd8e8d5-2302-5a2a-92bb-2971c34bd878",
+    "actor": {
+      "id": "74d0ffb0-ffd5-5859-a1c2-ac9b69060b39",
+      "tenant_id": "921d3377-77f1-5935-8da7-c2ac8a28ef08"
+    },
+    "allowed_tenant_id": "921d3377-77f1-5935-8da7-c2ac8a28ef08",
+    "denied_tenant_id": "a6d6c26f-1cf9-572f-9c78-d3e230fde55d",
+    "synthetic": true
+  },
+  {
+    "case_id": "742bb70e-2f4f-5964-97a9-71850a3351df",
+    "actor": {
+      "id": "edf0f358-1117-532c-a0ef-066a35fca455",
+      "tenant_id": "2c348a1f-a48b-5665-8040-838345fc4a98"
+    },
+    "allowed_tenant_id": "2c348a1f-a48b-5665-8040-838345fc4a98",
+    "denied_tenant_id": "0016aa96-8bd7-5621-bd43-1850d9e102e6",
+    "synthetic": true
+  },
+  {
+    "case_id": "aae76852-a786-59d1-96c7-1728db469350",
+    "actor": {
+      "id": "61860dd0-a906-54df-aaad-c118c405bfa5",
+      "tenant_id": "5841cf6c-caa0-566e-9735-a03492d230f8"
+    },
+    "allowed_tenant_id": "5841cf6c-caa0-566e-9735-a03492d230f8",
+    "denied_tenant_id": "efdafe2c-898e-5d20-85d6-7b7e09445fcf",
+    "synthetic": true
+  },
+  {
+    "case_id": "6ad2cadc-488e-5cc1-9eb8-36ea687c8b7e",
+    "actor": {
+      "id": "a4b60dc8-d8f2-5885-8a24-6dddad2a5409",
+      "tenant_id": "6e295998-73e8-5512-bb7d-4c5207f52c76"
+    },
+    "allowed_tenant_id": "6e295998-73e8-5512-bb7d-4c5207f52c76",
+    "denied_tenant_id": "34107278-a554-5106-8954-941f7ccb0966",
+    "synthetic": true
+  },
+  {
+    "case_id": "2aa56bb9-db88-5326-a813-99d1428cd619",
+    "actor": {
+      "id": "1eb2c8c3-aa5c-53b3-9b6c-6556857ad93f",
+      "tenant_id": "c6cfcd26-1879-5008-8f23-76ac33c0b333"
+    },
+    "allowed_tenant_id": "c6cfcd26-1879-5008-8f23-76ac33c0b333",
+    "denied_tenant_id": "e46367fa-6994-596e-a222-e365dadb3662",
+    "synthetic": true
+  },
+  {
+    "case_id": "c6f10adb-d11c-50d2-bdd2-0137898f5614",
+    "actor": {
+      "id": "2817efaf-e519-5f7a-b01d-a3459d88f39a",
+      "tenant_id": "760ff88d-dd77-582d-82f9-266125928cd8"
+    },
+    "allowed_tenant_id": "760ff88d-dd77-582d-82f9-266125928cd8",
+    "denied_tenant_id": "37b7e093-3150-5a63-87c5-9aaa7720c145",
+    "synthetic": true
+  },
+  {
+    "case_id": "28825907-d0dc-5037-9113-658f8e6fabda",
+    "actor": {
+      "id": "dd225fe6-e43e-5acf-826d-129edbe942fe",
+      "tenant_id": "63cd0c16-7f9f-54ae-aecb-69db1d2e987e"
+    },
+    "allowed_tenant_id": "63cd0c16-7f9f-54ae-aecb-69db1d2e987e",
+    "denied_tenant_id": "9bcbcfd6-398b-5035-bef4-14c6bd613e7e",
+    "synthetic": true
+  },
+  {
+    "case_id": "a820e2a0-212b-53a4-96b6-9de57b57cf41",
+    "actor": {
+      "id": "734c17ae-24fb-5f92-9542-0c1b8806fdb0",
+      "tenant_id": "285656ca-1580-541c-87e1-a0af182ce7d7"
+    },
+    "allowed_tenant_id": "285656ca-1580-541c-87e1-a0af182ce7d7",
+    "denied_tenant_id": "d5bfc130-feb2-564c-9e5f-a00f45b8999d",
+    "synthetic": true
+  },
+  {
+    "case_id": "1b667bc9-6717-5afe-b66c-2b8a0aa22a69",
+    "actor": {
+      "id": "869d7487-18f6-5a3f-9c05-0e30d88a5c04",
+      "tenant_id": "2773d755-7922-5c76-9886-4be022304689"
+    },
+    "allowed_tenant_id": "2773d755-7922-5c76-9886-4be022304689",
+    "denied_tenant_id": "17d57690-2a97-59f1-a887-e41f41f836fe",
+    "synthetic": true
+  },
+  {
+    "case_id": "f15ddc69-66e7-56bb-a6e5-639e6ebd1d1a",
+    "actor": {
+      "id": "ab2a9fec-509b-56e6-8c00-3bab778e33c0",
+      "tenant_id": "b44229f6-1a8f-55c0-8848-679886a243fe"
+    },
+    "allowed_tenant_id": "b44229f6-1a8f-55c0-8848-679886a243fe",
+    "denied_tenant_id": "4de5c09c-5beb-5a52-b351-0c80a687ec1e",
+    "synthetic": true
+  },
+  {
+    "case_id": "dd1cbcb8-b7ec-5ff9-a012-9dae85450bf5",
+    "actor": {
+      "id": "562b8b4f-8607-56b8-ab45-886d26f9a4eb",
+      "tenant_id": "13c747a9-c7c1-530c-b739-321b74c8664c"
+    },
+    "allowed_tenant_id": "13c747a9-c7c1-530c-b739-321b74c8664c",
+    "denied_tenant_id": "4da62367-5638-5634-9ef3-6182ff1a4283",
+    "synthetic": true
+  },
+  {
+    "case_id": "7b9d905a-f4c7-5404-a28b-68f81698c99b",
+    "actor": {
+      "id": "f0709988-3e5f-5e95-a57e-1ebb9f2aaf8d",
+      "tenant_id": "38af80d9-aecf-5585-a169-092ab0f89460"
+    },
+    "allowed_tenant_id": "38af80d9-aecf-5585-a169-092ab0f89460",
+    "denied_tenant_id": "34c746df-7dbe-5bd0-a526-0646a42253bc",
+    "synthetic": true
+  },
+  {
+    "case_id": "0d93f4f4-f39c-5c96-a5a5-f770310843cb",
+    "actor": {
+      "id": "8516122a-39f7-5d7d-a8c0-689f049fb4c7",
+      "tenant_id": "e570057c-171f-5b42-b7af-da08557be65e"
+    },
+    "allowed_tenant_id": "e570057c-171f-5b42-b7af-da08557be65e",
+    "denied_tenant_id": "0a79255f-a847-58fc-b31f-6d511c2bd438",
+    "synthetic": true
+  },
+  {
+    "case_id": "4c6abf31-6f05-5558-9ca0-40cc5611ab0b",
+    "actor": {
+      "id": "b2d95f03-1f1f-5a07-b705-344f73ac68bc",
+      "tenant_id": "328b21ac-3b0a-579b-ad15-80e50c02be55"
+    },
+    "allowed_tenant_id": "328b21ac-3b0a-579b-ad15-80e50c02be55",
+    "denied_tenant_id": "6c83f849-9bf2-5467-9a44-8303ecb791fe",
+    "synthetic": true
+  },
+  {
+    "case_id": "aa601c05-9f19-5946-9e3f-cfaa755f3602",
+    "actor": {
+      "id": "f5a2c256-9cf5-5091-8ce9-189507a2d90d",
+      "tenant_id": "9880915b-a76e-5526-92f4-5961e99521c1"
+    },
+    "allowed_tenant_id": "9880915b-a76e-5526-92f4-5961e99521c1",
+    "denied_tenant_id": "aeda8c01-f524-5007-89fb-f670dbe07f32",
+    "synthetic": true
+  },
+  {
+    "case_id": "f3002792-e7dd-5020-80be-3e7c81b7db04",
+    "actor": {
+      "id": "58d3db46-b68b-5820-bb72-48178afbc28d",
+      "tenant_id": "dbdcf53b-940b-5f75-b971-75808affcbb3"
+    },
+    "allowed_tenant_id": "dbdcf53b-940b-5f75-b971-75808affcbb3",
+    "denied_tenant_id": "187d4155-050c-5dd6-8f38-96159b86d2c9",
+    "synthetic": true
+  },
+  {
+    "case_id": "d5211be5-0267-5584-8c3d-e2ca048b2ddc",
+    "actor": {
+      "id": "be413f46-8fd7-539f-aebe-2dbde795266f",
+      "tenant_id": "8e193597-08fb-5474-9154-c2c83c3080d3"
+    },
+    "allowed_tenant_id": "8e193597-08fb-5474-9154-c2c83c3080d3",
+    "denied_tenant_id": "52d9a398-96e1-54e6-863f-25869ca14eab",
+    "synthetic": true
+  },
+  {
+    "case_id": "04f186a1-eb6e-5dcd-84e6-82102490c24d",
+    "actor": {
+      "id": "82a89d49-7236-5dbf-865a-79783861ebed",
+      "tenant_id": "b584fbce-1207-5510-b13d-b31fd265437e"
+    },
+    "allowed_tenant_id": "b584fbce-1207-5510-b13d-b31fd265437e",
+    "denied_tenant_id": "9f48a37c-0d49-55e6-bc64-ce3f97733b30",
+    "synthetic": true
+  },
+  {
+    "case_id": "0019af4f-ab47-5517-9191-5376852a6914",
+    "actor": {
+      "id": "199ad303-edb2-584e-9fba-add8631213ba",
+      "tenant_id": "6acb43c2-82c9-5a70-88e1-dee8fb0b8d59"
+    },
+    "allowed_tenant_id": "6acb43c2-82c9-5a70-88e1-dee8fb0b8d59",
+    "denied_tenant_id": "a236e12f-4f7d-5b37-855d-fb85684bc5eb",
+    "synthetic": true
+  },
+  {
+    "case_id": "35fe671c-b943-5fcb-9698-6edfcfdf566e",
+    "actor": {
+      "id": "0c117757-c297-5d50-bf1a-cef1d65c0de0",
+      "tenant_id": "afc65a09-a115-5b49-b040-4d1dde61d94f"
+    },
+    "allowed_tenant_id": "afc65a09-a115-5b49-b040-4d1dde61d94f",
+    "denied_tenant_id": "1c1114ad-716e-50c0-a006-a9934e424007",
+    "synthetic": true
+  },
+  {
+    "case_id": "5b3f6b96-ccab-5e0e-b691-139a88e58433",
+    "actor": {
+      "id": "bf91150f-5844-5070-b42e-575fa0de623d",
+      "tenant_id": "b44ee1a9-448f-53f4-b383-77d07edab933"
+    },
+    "allowed_tenant_id": "b44ee1a9-448f-53f4-b383-77d07edab933",
+    "denied_tenant_id": "68c4af77-9761-5212-a8c4-26c43634f2f1",
+    "synthetic": true
+  },
+  {
+    "case_id": "717c1390-573d-56a4-b9b0-d01576c3f7e5",
+    "actor": {
+      "id": "2d7fa29a-6e34-5493-b4d7-63098b23cccc",
+      "tenant_id": "1babfb04-f7f5-53f5-895f-db6126ebebf6"
+    },
+    "allowed_tenant_id": "1babfb04-f7f5-53f5-895f-db6126ebebf6",
+    "denied_tenant_id": "0d0632a3-81ac-5aee-a834-06767b4a0712",
+    "synthetic": true
+  },
+  {
+    "case_id": "1e0caa3a-2412-51df-a0da-e88c9d419673",
+    "actor": {
+      "id": "a8bb4956-b1fa-59c6-b005-c4a951488b45",
+      "tenant_id": "1bb33b95-d20f-5e10-86da-f8f7afd2263c"
+    },
+    "allowed_tenant_id": "1bb33b95-d20f-5e10-86da-f8f7afd2263c",
+    "denied_tenant_id": "6c406a8f-beb3-53b9-a5e8-035ce35200a4",
+    "synthetic": true
+  },
+  {
+    "case_id": "17806596-9a6e-5a8f-aa32-d7f71f331179",
+    "actor": {
+      "id": "a9808792-ffc7-503e-a6e7-82d75767009f",
+      "tenant_id": "889d5a74-8696-5c36-be32-af09eb3f8174"
+    },
+    "allowed_tenant_id": "889d5a74-8696-5c36-be32-af09eb3f8174",
+    "denied_tenant_id": "9f95cd39-6230-565c-98ec-8f927902f46a",
+    "synthetic": true
+  },
+  {
+    "case_id": "9075da9b-20c7-5164-a978-36908f40b336",
+    "actor": {
+      "id": "8b031fcb-94c0-57c2-bf6c-f7ae2dd35864",
+      "tenant_id": "46a8ba58-98a9-5352-ad96-9a2bc27a149f"
+    },
+    "allowed_tenant_id": "46a8ba58-98a9-5352-ad96-9a2bc27a149f",
+    "denied_tenant_id": "561e4fc4-9bc0-5571-9046-9a5dff045b09",
+    "synthetic": true
+  },
+  {
+    "case_id": "60e5545b-7937-5e18-9ae4-4bef6786c4e0",
+    "actor": {
+      "id": "c89ef36c-b9fb-504d-ba4c-a45f9a8b9244",
+      "tenant_id": "c537be79-db79-5970-9fbb-171dcf065633"
+    },
+    "allowed_tenant_id": "c537be79-db79-5970-9fbb-171dcf065633",
+    "denied_tenant_id": "6d227498-9f1d-554b-a84a-e7a6ccc2ff0c",
+    "synthetic": true
+  },
+  {
+    "case_id": "aa3aec56-0859-564f-9762-908ea8c66a26",
+    "actor": {
+      "id": "f88049ef-b7aa-54ac-87d3-6468be49eb78",
+      "tenant_id": "c1c69159-dbc9-5cb2-ae58-83eb1eb3723b"
+    },
+    "allowed_tenant_id": "c1c69159-dbc9-5cb2-ae58-83eb1eb3723b",
+    "denied_tenant_id": "673e9e7b-8c9d-5219-ad84-2f64a8c1209c",
+    "synthetic": true
+  },
+  {
+    "case_id": "9684c519-9655-5bd2-a9a8-ebceae77fc9a",
+    "actor": {
+      "id": "8c9a8cae-0ee1-5092-87a1-45d62c296ce0",
+      "tenant_id": "82282341-79b6-547c-9fa9-59ff0620f0a4"
+    },
+    "allowed_tenant_id": "82282341-79b6-547c-9fa9-59ff0620f0a4",
+    "denied_tenant_id": "a0f22f15-ec4c-5510-84dd-bcc7fa550486",
+    "synthetic": true
+  },
+  {
+    "case_id": "875722d3-b284-54fa-a31b-08fa09ba9556",
+    "actor": {
+      "id": "d3c0ed7e-c5f7-582d-a691-d6281f8be00e",
+      "tenant_id": "f29dd48b-9d10-51ee-9437-b55adea66a10"
+    },
+    "allowed_tenant_id": "f29dd48b-9d10-51ee-9437-b55adea66a10",
+    "denied_tenant_id": "b609a863-9939-5c3a-8f3d-6087f4c7c564",
+    "synthetic": true
+  },
+  {
+    "case_id": "c2fc4105-772b-5911-a331-eb5c8978ce46",
+    "actor": {
+      "id": "0fb84518-1d0d-5a9d-b1a4-a3e716d366c8",
+      "tenant_id": "463ee2b1-a88d-593a-a7e3-d7f8d6725d70"
+    },
+    "allowed_tenant_id": "463ee2b1-a88d-593a-a7e3-d7f8d6725d70",
+    "denied_tenant_id": "837a607f-0e73-5c47-b372-12fd898b9c0e",
+    "synthetic": true
+  },
+  {
+    "case_id": "71f24ee9-ad54-5837-8207-bf1b0256736d",
+    "actor": {
+      "id": "df203af4-9e1e-5b96-95f4-ed6bff9e5219",
+      "tenant_id": "d8302c26-c2a8-59bd-aca4-29ee2a9bd699"
+    },
+    "allowed_tenant_id": "d8302c26-c2a8-59bd-aca4-29ee2a9bd699",
+    "denied_tenant_id": "44fe600d-7327-54e1-bd55-2aa7a90b0251",
+    "synthetic": true
+  },
+  {
+    "case_id": "27b9c472-961e-5052-9c30-867d62581cd9",
+    "actor": {
+      "id": "9878dc29-6a63-52ff-a37a-080c6a59b242",
+      "tenant_id": "753fe7aa-c293-54b7-942f-48d41bce7cb2"
+    },
+    "allowed_tenant_id": "753fe7aa-c293-54b7-942f-48d41bce7cb2",
+    "denied_tenant_id": "cd3d02fb-3ed1-5308-a011-4dc1e71f4b27",
+    "synthetic": true
+  },
+  {
+    "case_id": "537b4343-c4a1-56fa-9e11-9f29f6f697a1",
+    "actor": {
+      "id": "7f0474bf-01ed-52d1-af53-d6676a3a3789",
+      "tenant_id": "e08a864f-0de4-5036-aa00-d1eba0297afa"
+    },
+    "allowed_tenant_id": "e08a864f-0de4-5036-aa00-d1eba0297afa",
+    "denied_tenant_id": "2e4b7c52-680d-544b-b723-6053afb2c57c",
+    "synthetic": true
+  },
+  {
+    "case_id": "dc77a83c-a1f0-55ea-b8de-fa5729d98231",
+    "actor": {
+      "id": "3059ad97-f989-5535-8d29-896f285b48e6",
+      "tenant_id": "9eede079-c884-5a6f-b94e-1bbf8b76bda6"
+    },
+    "allowed_tenant_id": "9eede079-c884-5a6f-b94e-1bbf8b76bda6",
+    "denied_tenant_id": "a2102c1a-516d-528d-8e41-5fd9aab6b717",
+    "synthetic": true
+  },
+  {
+    "case_id": "1679a3ca-13bb-5922-b661-730d2201ac64",
+    "actor": {
+      "id": "aacd4267-7175-5726-949d-487afc41fc7f",
+      "tenant_id": "5c466fc3-62fb-5537-9db7-7f3926204f47"
+    },
+    "allowed_tenant_id": "5c466fc3-62fb-5537-9db7-7f3926204f47",
+    "denied_tenant_id": "daa718be-cdb9-5c40-996d-db79f221dbf2",
+    "synthetic": true
+  },
+  {
+    "case_id": "567d4ba3-81b5-5774-a11e-cea99ff751e6",
+    "actor": {
+      "id": "be53f77b-2c8b-58da-822e-632b60221680",
+      "tenant_id": "4dc64ef0-5da3-595c-a31a-71cbcafec066"
+    },
+    "allowed_tenant_id": "4dc64ef0-5da3-595c-a31a-71cbcafec066",
+    "denied_tenant_id": "b1d0811d-414f-57e6-9a6c-9fdbcf9df76c",
+    "synthetic": true
+  },
+  {
+    "case_id": "e9f588c2-22e6-5d84-9c19-fcab1b3b94c1",
+    "actor": {
+      "id": "4033424d-8d2d-5956-bd30-3d899a95e996",
+      "tenant_id": "c56ac2a7-b940-51a7-8c27-35bca09621ca"
+    },
+    "allowed_tenant_id": "c56ac2a7-b940-51a7-8c27-35bca09621ca",
+    "denied_tenant_id": "eecae9a0-ae1f-5cd8-924a-1b40678f0386",
+    "synthetic": true
+  },
+  {
+    "case_id": "5239decc-a3ce-5e95-8e92-14a16d84ea7b",
+    "actor": {
+      "id": "750755a0-cf9a-55d6-989b-f35b7a32c3dc",
+      "tenant_id": "7f18c71f-fc81-5368-acf7-9fe5f9204756"
+    },
+    "allowed_tenant_id": "7f18c71f-fc81-5368-acf7-9fe5f9204756",
+    "denied_tenant_id": "92d8e584-7ca3-5ead-b0fe-470f723f1a80",
+    "synthetic": true
+  },
+  {
+    "case_id": "ebf9028d-494c-5292-86e8-47f240824dc8",
+    "actor": {
+      "id": "43f83b0a-572d-5d7d-a9c4-639928f3c56a",
+      "tenant_id": "5b8fa402-3e82-5b6a-af77-31c663723d3c"
+    },
+    "allowed_tenant_id": "5b8fa402-3e82-5b6a-af77-31c663723d3c",
+    "denied_tenant_id": "256f50da-9cbf-52d8-80c7-8dbc604f7bf2",
+    "synthetic": true
+  },
+  {
+    "case_id": "b0351356-977a-5ee6-823e-cbe419b3e64e",
+    "actor": {
+      "id": "fa79f9e7-26f4-55b6-abb0-2d71593ac126",
+      "tenant_id": "7f7eb187-9975-5aeb-8e14-5c071a9c586d"
+    },
+    "allowed_tenant_id": "7f7eb187-9975-5aeb-8e14-5c071a9c586d",
+    "denied_tenant_id": "405c9f0f-0098-5c7e-b9ed-d42dfad29774",
+    "synthetic": true
+  },
+  {
+    "case_id": "335c43b0-ac09-51a7-a0b8-689744259a98",
+    "actor": {
+      "id": "5ad8e450-4d73-58cc-a39b-78df8c06c3ad",
+      "tenant_id": "5f59ea8b-8a56-571d-b32b-a186bb20e3db"
+    },
+    "allowed_tenant_id": "5f59ea8b-8a56-571d-b32b-a186bb20e3db",
+    "denied_tenant_id": "2ac09c77-4381-5112-9871-772aa04c0f03",
+    "synthetic": true
+  },
+  {
+    "case_id": "6e09237c-2308-5e36-bdbd-a91fb7a75dd0",
+    "actor": {
+      "id": "01adc0f0-8318-53b0-8cfe-3e72e830bbfc",
+      "tenant_id": "1076489e-e61c-5e74-8e63-1abb237c0e34"
+    },
+    "allowed_tenant_id": "1076489e-e61c-5e74-8e63-1abb237c0e34",
+    "denied_tenant_id": "0a7d5b60-c347-55e1-a788-30657be83061",
+    "synthetic": true
+  },
+  {
+    "case_id": "4101f5b1-1c89-5bfc-93ac-8d29ca090bea",
+    "actor": {
+      "id": "e31f70ce-5f47-574d-bc83-e81691e89169",
+      "tenant_id": "9aa48c3b-cbdd-52be-a82d-b9d396c0e5a8"
+    },
+    "allowed_tenant_id": "9aa48c3b-cbdd-52be-a82d-b9d396c0e5a8",
+    "denied_tenant_id": "51be1005-5efb-5f19-bfb0-de00cbd37dba",
+    "synthetic": true
+  },
+  {
+    "case_id": "2b91283f-c882-5066-8b0d-7ba90a0a8f8d",
+    "actor": {
+      "id": "358c8520-96b1-51f3-a25e-488f44f8d1a9",
+      "tenant_id": "7a2a28d1-2dc1-51b7-a3c8-64309b40f3d3"
+    },
+    "allowed_tenant_id": "7a2a28d1-2dc1-51b7-a3c8-64309b40f3d3",
+    "denied_tenant_id": "3f9289c5-b1ce-5cdc-9ce8-7e81b3e20c38",
+    "synthetic": true
+  },
+  {
+    "case_id": "df47534e-7497-56ae-996b-451ec5feb7bd",
+    "actor": {
+      "id": "276bcc9f-08bb-59ed-9b7f-dfa7f952bb89",
+      "tenant_id": "19621676-4797-5a8a-866a-9a270f9cf78b"
+    },
+    "allowed_tenant_id": "19621676-4797-5a8a-866a-9a270f9cf78b",
+    "denied_tenant_id": "4d0651b3-3173-5246-8098-3a8091dbd8a4",
+    "synthetic": true
+  },
+  {
+    "case_id": "5ea9f733-ee58-5392-961a-1a1eeec7cf0c",
+    "actor": {
+      "id": "7cda9321-1f90-5221-bd73-d7dfd2b4e911",
+      "tenant_id": "33949e2b-46ea-5bb4-a478-d66e9efa69fc"
+    },
+    "allowed_tenant_id": "33949e2b-46ea-5bb4-a478-d66e9efa69fc",
+    "denied_tenant_id": "a6c38bf6-4ca4-5cd4-86ab-cb4c499369fe",
+    "synthetic": true
+  },
+  {
+    "case_id": "1e2bbc35-9e30-53ec-a368-9ddb358a20f3",
+    "actor": {
+      "id": "2f3946b7-adc8-55db-99b0-f4805039525f",
+      "tenant_id": "eef9bdb0-c444-5434-924f-7aa7a7d803ed"
+    },
+    "allowed_tenant_id": "eef9bdb0-c444-5434-924f-7aa7a7d803ed",
+    "denied_tenant_id": "06ad3391-5677-50b9-9fad-a0f82a2b9968",
+    "synthetic": true
+  },
+  {
+    "case_id": "1770509b-ae86-5951-9a13-9bc3d0ce214e",
+    "actor": {
+      "id": "5195f5d4-e8bc-5d77-bafb-673c96d960a7",
+      "tenant_id": "703e2fdd-9278-5cb0-b56d-ec64b633f179"
+    },
+    "allowed_tenant_id": "703e2fdd-9278-5cb0-b56d-ec64b633f179",
+    "denied_tenant_id": "1582fe75-403c-5f5b-ac4d-2b066ad21520",
+    "synthetic": true
+  },
+  {
+    "case_id": "34d28629-e2a5-5bab-8fe4-1f45449d3d54",
+    "actor": {
+      "id": "c2338d48-801a-5cbb-b64e-715f273f79ff",
+      "tenant_id": "27121d01-584f-59c6-ace0-c959ebf1ca55"
+    },
+    "allowed_tenant_id": "27121d01-584f-59c6-ace0-c959ebf1ca55",
+    "denied_tenant_id": "152a1e0e-651e-5ba2-a6c6-ec5b13a5001d",
+    "synthetic": true
+  },
+  {
+    "case_id": "ac0eaba1-ea1b-5b4e-ad03-84bb68ef17aa",
+    "actor": {
+      "id": "671cf205-b1b0-58ed-95a7-857749edb4d5",
+      "tenant_id": "d5f07c71-1901-5273-acb4-83d2c6114feb"
+    },
+    "allowed_tenant_id": "d5f07c71-1901-5273-acb4-83d2c6114feb",
+    "denied_tenant_id": "1d438bbe-3241-543b-aac1-7efc4194499e",
+    "synthetic": true
+  },
+  {
+    "case_id": "9b0c30d7-4afe-5478-8137-afb7db4bb565",
+    "actor": {
+      "id": "97e5fbd6-f17f-574e-8ee9-351a58b32e51",
+      "tenant_id": "5ff3589a-e27e-559f-a045-379399470e92"
+    },
+    "allowed_tenant_id": "5ff3589a-e27e-559f-a045-379399470e92",
+    "denied_tenant_id": "836a523d-6681-547e-9be7-e78befaa43f8",
+    "synthetic": true
+  },
+  {
+    "case_id": "fb22b44f-ebb2-545a-9f0a-0e5fd2796cf7",
+    "actor": {
+      "id": "3a93b9c9-91ee-58a0-b030-11d9d31f1e1c",
+      "tenant_id": "0f0a1a02-22d2-5f14-add4-f39b3f355c2a"
+    },
+    "allowed_tenant_id": "0f0a1a02-22d2-5f14-add4-f39b3f355c2a",
+    "denied_tenant_id": "ad9f6760-ea74-5b4b-b935-51a853cd4197",
+    "synthetic": true
+  },
+  {
+    "case_id": "44705fa8-6fda-5d99-8ac9-815cdae07858",
+    "actor": {
+      "id": "39d18737-3b19-5a3c-a318-c73a36be4658",
+      "tenant_id": "faf0f1e5-ff44-5b9a-966b-158075246cd2"
+    },
+    "allowed_tenant_id": "faf0f1e5-ff44-5b9a-966b-158075246cd2",
+    "denied_tenant_id": "2e886941-423d-54af-af16-27eec018e9f3",
+    "synthetic": true
+  },
+  {
+    "case_id": "c4276d21-cc75-567f-bf56-e5af650db56b",
+    "actor": {
+      "id": "671a9e03-22b3-537b-b4e0-c39fadfbf4b3",
+      "tenant_id": "6a9a33c1-d27b-5fee-a534-5d5f83c6c96f"
+    },
+    "allowed_tenant_id": "6a9a33c1-d27b-5fee-a534-5d5f83c6c96f",
+    "denied_tenant_id": "b1d6bfb2-409b-581a-8031-5dda937ce833",
+    "synthetic": true
+  },
+  {
+    "case_id": "cee8cfe5-04b8-5757-a845-5ba0a4439ae7",
+    "actor": {
+      "id": "31510027-98b0-550f-9d82-c772e7301c9a",
+      "tenant_id": "b2fd79e7-705f-5600-a3a6-170815b4e341"
+    },
+    "allowed_tenant_id": "b2fd79e7-705f-5600-a3a6-170815b4e341",
+    "denied_tenant_id": "9bf667e6-d55d-5ca9-875d-f82e745f7359",
+    "synthetic": true
+  },
+  {
+    "case_id": "eb7f7963-154c-5637-8411-5601fd2260fb",
+    "actor": {
+      "id": "cc782e93-c0ad-51af-8b5c-75a64df3e13b",
+      "tenant_id": "a6ab5d9f-5ef8-594e-81ef-71c02423d299"
+    },
+    "allowed_tenant_id": "a6ab5d9f-5ef8-594e-81ef-71c02423d299",
+    "denied_tenant_id": "4ac44fdf-d077-5099-9d4b-5826c6c94217",
+    "synthetic": true
+  },
+  {
+    "case_id": "3f4410d4-0e55-5554-bea0-79e40cb524d8",
+    "actor": {
+      "id": "eb8fea62-53f8-58f0-ade5-21e18535c746",
+      "tenant_id": "e588c5d7-6363-5d3c-a715-9c3217989f37"
+    },
+    "allowed_tenant_id": "e588c5d7-6363-5d3c-a715-9c3217989f37",
+    "denied_tenant_id": "56704d4e-f1d7-5e6b-86ad-adfcef40324f",
+    "synthetic": true
+  },
+  {
+    "case_id": "0aace390-b061-53b4-ace3-004510804dd7",
+    "actor": {
+      "id": "14532c1f-986e-5187-9895-a75a04f3719c",
+      "tenant_id": "7223da90-419c-5e5e-87c2-890ffa1c7843"
+    },
+    "allowed_tenant_id": "7223da90-419c-5e5e-87c2-890ffa1c7843",
+    "denied_tenant_id": "8ba445ab-76b9-574c-b207-3e76144131d7",
+    "synthetic": true
+  },
+  {
+    "case_id": "201580a8-f3ee-5895-83a4-e8e62353232d",
+    "actor": {
+      "id": "c3efde35-1525-5ea6-8d12-619da66f20c2",
+      "tenant_id": "a308a8a1-3e32-556c-9280-19e7c8a92f08"
+    },
+    "allowed_tenant_id": "a308a8a1-3e32-556c-9280-19e7c8a92f08",
+    "denied_tenant_id": "e446c828-b961-5967-846d-2c6deb59c995",
+    "synthetic": true
+  },
+  {
+    "case_id": "1b0e7470-17f2-5758-b21a-a8eeab82b0b0",
+    "actor": {
+      "id": "b8b7531b-b03c-529f-89b8-0d689152ad44",
+      "tenant_id": "16d274f6-d198-5405-9fb2-6493bcab3058"
+    },
+    "allowed_tenant_id": "16d274f6-d198-5405-9fb2-6493bcab3058",
+    "denied_tenant_id": "9b7bd117-4b5d-5d7c-8124-608ac9a4b5dd",
+    "synthetic": true
+  },
+  {
+    "case_id": "3f18b3d1-b2ee-5488-81ed-7c32e46c36d4",
+    "actor": {
+      "id": "054f0dcd-a5b9-5ae5-909c-3ea107f56547",
+      "tenant_id": "2df64455-6cd3-5a2f-98c9-e056c9274c10"
+    },
+    "allowed_tenant_id": "2df64455-6cd3-5a2f-98c9-e056c9274c10",
+    "denied_tenant_id": "d3885f6c-71c4-5247-a033-03c62d3597eb",
+    "synthetic": true
+  },
+  {
+    "case_id": "1e734164-3ae2-5166-95b2-801ce818a317",
+    "actor": {
+      "id": "57cdf02d-80d0-544b-ae02-7dce1e597a81",
+      "tenant_id": "639a3e64-3bca-5776-ac74-ece4f3b2b86c"
+    },
+    "allowed_tenant_id": "639a3e64-3bca-5776-ac74-ece4f3b2b86c",
+    "denied_tenant_id": "f95bdb61-00bb-5a47-98de-7fcfff53c5eb",
+    "synthetic": true
+  },
+  {
+    "case_id": "92e1a220-55b7-574b-85e9-754dbf02df2d",
+    "actor": {
+      "id": "4342cb95-8870-5646-b3cd-737f22f12477",
+      "tenant_id": "e1154a08-559e-586a-a737-82de3439dacf"
+    },
+    "allowed_tenant_id": "e1154a08-559e-586a-a737-82de3439dacf",
+    "denied_tenant_id": "8a777e52-bae9-5e69-8509-bcf96e909bbd",
+    "synthetic": true
+  },
+  {
+    "case_id": "29ea7376-b8c7-5d2d-a4f7-0fb2a79d123e",
+    "actor": {
+      "id": "fad5641e-d4b7-5a35-82ad-710d9b680861",
+      "tenant_id": "3eae7d7b-314b-55b5-9c6c-1b8ebad26ff2"
+    },
+    "allowed_tenant_id": "3eae7d7b-314b-55b5-9c6c-1b8ebad26ff2",
+    "denied_tenant_id": "d3044c9c-f232-52c0-a21f-aef7fefb49ec",
+    "synthetic": true
+  },
+  {
+    "case_id": "73ab061e-b7f7-53cb-baa5-1c04aafe08f0",
+    "actor": {
+      "id": "e006bbff-3c5c-5711-903d-26c6d5c46a7e",
+      "tenant_id": "4deb637b-1c2d-5934-8739-2e0dece899e8"
+    },
+    "allowed_tenant_id": "4deb637b-1c2d-5934-8739-2e0dece899e8",
+    "denied_tenant_id": "be597655-5082-5067-b00c-e541529b7d83",
+    "synthetic": true
+  },
+  {
+    "case_id": "cea3abd3-4ef1-5964-b1f0-d85c55a1c7a9",
+    "actor": {
+      "id": "438ee37e-a864-5c8c-8839-447a6a133c43",
+      "tenant_id": "080c34fe-414a-50e8-a445-770b9bddf290"
+    },
+    "allowed_tenant_id": "080c34fe-414a-50e8-a445-770b9bddf290",
+    "denied_tenant_id": "7a7fcf17-d580-5e43-8ad1-56524ae4367c",
+    "synthetic": true
+  },
+  {
+    "case_id": "eaa6e6c8-c25a-507c-9c26-183785efe130",
+    "actor": {
+      "id": "925764f9-b866-520d-8b54-39829874c5e7",
+      "tenant_id": "134fae65-50c6-50b5-a775-090476586d75"
+    },
+    "allowed_tenant_id": "134fae65-50c6-50b5-a775-090476586d75",
+    "denied_tenant_id": "938ff8f9-0b8c-51f9-ae13-6db6a50dc083",
+    "synthetic": true
+  },
+  {
+    "case_id": "39a98051-e2b1-5d7a-b4e9-998ffef34964",
+    "actor": {
+      "id": "11280fdd-2680-56e1-8dd8-f48f682f8c2c",
+      "tenant_id": "dd9e1cd6-0adc-587a-83ff-6708fa30045e"
+    },
+    "allowed_tenant_id": "dd9e1cd6-0adc-587a-83ff-6708fa30045e",
+    "denied_tenant_id": "26da8702-e361-5ad6-a7ec-1045bb873f38",
+    "synthetic": true
+  },
+  {
+    "case_id": "6c7670af-2bec-57d4-83f3-c91959cd0502",
+    "actor": {
+      "id": "56335638-f0c3-5647-9152-34e125924ee3",
+      "tenant_id": "ee26dcc9-c40f-5a00-8a8d-defcb23ea2a5"
+    },
+    "allowed_tenant_id": "ee26dcc9-c40f-5a00-8a8d-defcb23ea2a5",
+    "denied_tenant_id": "898fc785-3c61-559a-bca0-0afa12c63def",
+    "synthetic": true
+  },
+  {
+    "case_id": "b0bc8412-f1d4-5020-a779-1e13c99db8c2",
+    "actor": {
+      "id": "347735c6-aa53-5d79-a067-8ec1d7cd5020",
+      "tenant_id": "8a49a446-0430-549a-9b3b-8e62aad80ec3"
+    },
+    "allowed_tenant_id": "8a49a446-0430-549a-9b3b-8e62aad80ec3",
+    "denied_tenant_id": "f5acd7fa-600f-5491-93ba-2fce362b0fe9",
+    "synthetic": true
+  },
+  {
+    "case_id": "fdc211f5-51a9-50df-973e-4a6c8060df7a",
+    "actor": {
+      "id": "5eff7ea5-6463-5e2f-845f-211ee5b0230d",
+      "tenant_id": "e9c7306d-6a37-5a54-9558-5edf409b43f4"
+    },
+    "allowed_tenant_id": "e9c7306d-6a37-5a54-9558-5edf409b43f4",
+    "denied_tenant_id": "6237677b-0253-573c-acc5-e54dde50d95b",
+    "synthetic": true
+  },
+  {
+    "case_id": "8294b0e2-6da6-5e5d-95a9-7da91235c72a",
+    "actor": {
+      "id": "e922faea-9796-5a57-90b3-4690bd2d07c9",
+      "tenant_id": "54cddba7-5776-5581-9b43-d213e7f5d3e9"
+    },
+    "allowed_tenant_id": "54cddba7-5776-5581-9b43-d213e7f5d3e9",
+    "denied_tenant_id": "b3946add-8e5f-5e31-a2e3-ad76f6fc6a8f",
+    "synthetic": true
+  },
+  {
+    "case_id": "2d673b93-c172-58b4-b28f-88300bc8b334",
+    "actor": {
+      "id": "48f8f48f-27c1-5a38-ba74-92afe20af2da",
+      "tenant_id": "9e0d01d4-a345-5f82-bd65-78f432cc9ad7"
+    },
+    "allowed_tenant_id": "9e0d01d4-a345-5f82-bd65-78f432cc9ad7",
+    "denied_tenant_id": "ddf01fa5-6c93-5975-aeb8-64820e59ab5d",
+    "synthetic": true
+  },
+  {
+    "case_id": "e9746663-5cc5-5233-9551-799b1aa383b9",
+    "actor": {
+      "id": "5f4b91c0-a346-5dda-ac57-0d32533c4fdc",
+      "tenant_id": "59d72140-9f4a-5ecd-9170-bcb2e72bb89d"
+    },
+    "allowed_tenant_id": "59d72140-9f4a-5ecd-9170-bcb2e72bb89d",
+    "denied_tenant_id": "a16ec8e5-aa5f-5758-9a8f-52ddaca0cdd3",
+    "synthetic": true
+  },
+  {
+    "case_id": "73363c2c-86ff-515f-9569-869582d2ae91",
+    "actor": {
+      "id": "77499f85-d408-56d4-b1ee-47b7629d2019",
+      "tenant_id": "4a143b19-c963-544d-89c2-8e2321cadcad"
+    },
+    "allowed_tenant_id": "4a143b19-c963-544d-89c2-8e2321cadcad",
+    "denied_tenant_id": "6e5da164-f2bc-5358-b590-1580a196ff44",
+    "synthetic": true
+  },
+  {
+    "case_id": "780f0942-fe9f-50fc-9c6e-787157079de5",
+    "actor": {
+      "id": "9c3f9534-8eac-5fd1-b442-fa6897f1ad74",
+      "tenant_id": "20d26e26-20cf-5977-bff0-724e98c1de6a"
+    },
+    "allowed_tenant_id": "20d26e26-20cf-5977-bff0-724e98c1de6a",
+    "denied_tenant_id": "117a9aa7-16d3-50bc-a9bf-fb8b59cef055",
+    "synthetic": true
+  },
+  {
+    "case_id": "fd1efafa-67c6-51e9-adee-8ac4d5196d00",
+    "actor": {
+      "id": "0913343c-9495-5ccc-858a-3fab860bd23b",
+      "tenant_id": "f0c6ce91-6e2a-5b8f-86a8-4bc1fe877a27"
+    },
+    "allowed_tenant_id": "f0c6ce91-6e2a-5b8f-86a8-4bc1fe877a27",
+    "denied_tenant_id": "b348ea1d-950e-5a2e-bb63-8d6ebc13c902",
+    "synthetic": true
+  },
+  {
+    "case_id": "56f996db-e6aa-537f-ada6-56dfed999a4a",
+    "actor": {
+      "id": "95913098-bcd7-5f36-bde2-2357246dc920",
+      "tenant_id": "eafd41aa-e59e-5f51-91a7-845fa011c27f"
+    },
+    "allowed_tenant_id": "eafd41aa-e59e-5f51-91a7-845fa011c27f",
+    "denied_tenant_id": "f9ea3feb-204f-5f22-9dd9-24be63ff1b1c",
+    "synthetic": true
+  },
+  {
+    "case_id": "ce5dfee9-4e49-5938-ba32-2738e12b5536",
+    "actor": {
+      "id": "443f9d34-6640-5d90-af5a-1c2256e66ca0",
+      "tenant_id": "3429cea9-f4d5-56f5-a9f2-9648985b03b3"
+    },
+    "allowed_tenant_id": "3429cea9-f4d5-56f5-a9f2-9648985b03b3",
+    "denied_tenant_id": "b1646ef8-f917-5dc0-a3ff-059ad841d84c",
+    "synthetic": true
+  },
+  {
+    "case_id": "d4880fba-5c68-57cd-8fb0-96f5feede254",
+    "actor": {
+      "id": "4eb1e6c0-8524-52c2-9366-d5956b0e1ed5",
+      "tenant_id": "12ab24c3-8179-5442-b036-de9fd3b9cb4d"
+    },
+    "allowed_tenant_id": "12ab24c3-8179-5442-b036-de9fd3b9cb4d",
+    "denied_tenant_id": "5f8e6278-faf4-5a56-acb9-24b38b451e53",
+    "synthetic": true
+  },
+  {
+    "case_id": "132f656e-a33c-5eaa-b668-6c037bab1a96",
+    "actor": {
+      "id": "c45efc3a-588d-59a6-abdd-92e58c2f3309",
+      "tenant_id": "eef7eced-24ce-576a-b46f-c562011f1b9b"
+    },
+    "allowed_tenant_id": "eef7eced-24ce-576a-b46f-c562011f1b9b",
+    "denied_tenant_id": "eeafb080-59da-5398-9d1d-eeb9fb306061",
+    "synthetic": true
+  },
+  {
+    "case_id": "09a0c762-3243-512a-8819-f1f277a8d6e9",
+    "actor": {
+      "id": "49e83569-91d0-54ac-8fb1-5681eb4947e3",
+      "tenant_id": "0e2e5214-38b1-5876-8272-0a60171830c8"
+    },
+    "allowed_tenant_id": "0e2e5214-38b1-5876-8272-0a60171830c8",
+    "denied_tenant_id": "418439c2-2fe7-5421-8e4f-829c201aa08f",
+    "synthetic": true
+  },
+  {
+    "case_id": "813eb57f-72e1-59f5-82b2-3b06e88c18e3",
+    "actor": {
+      "id": "fbf6c4ab-19fc-5c2b-82ba-2d956a237942",
+      "tenant_id": "cff9af6a-4453-5b40-ac8d-38b05926926f"
+    },
+    "allowed_tenant_id": "cff9af6a-4453-5b40-ac8d-38b05926926f",
+    "denied_tenant_id": "e5746112-90b2-5f7d-af05-0eba5db5f3ff",
+    "synthetic": true
+  },
+  {
+    "case_id": "9aef7ce6-c05e-515c-9ae0-af6151705fb1",
+    "actor": {
+      "id": "3614d4e3-8c72-5c1f-92bc-f4c243562ec2",
+      "tenant_id": "b070318e-ab6b-5552-b2b2-f300a77c154f"
+    },
+    "allowed_tenant_id": "b070318e-ab6b-5552-b2b2-f300a77c154f",
+    "denied_tenant_id": "de9a4026-4d25-523a-8230-556fd8d5eef8",
+    "synthetic": true
+  },
+  {
+    "case_id": "1a8d75e2-2585-5f89-b990-2e2f8c6b519b",
+    "actor": {
+      "id": "12ec1488-367e-5989-9d55-77ed4e155a84",
+      "tenant_id": "21fc0079-552b-5b04-8e2e-f30122b0d672"
+    },
+    "allowed_tenant_id": "21fc0079-552b-5b04-8e2e-f30122b0d672",
+    "denied_tenant_id": "6c28147a-93fa-59d7-86fa-ced23cb4f258",
+    "synthetic": true
+  },
+  {
+    "case_id": "a1afc1c3-4271-5357-bede-9290d3eb75ee",
+    "actor": {
+      "id": "34e90320-124e-5415-a1ec-c3055b3e2f1a",
+      "tenant_id": "95844e1d-cb87-5e38-ab5c-37a931443bab"
+    },
+    "allowed_tenant_id": "95844e1d-cb87-5e38-ab5c-37a931443bab",
+    "denied_tenant_id": "fb0246eb-c1f2-5c63-89ac-338ca329a592",
+    "synthetic": true
+  },
+  {
+    "case_id": "5877279f-6c80-502a-90a6-c2fee4312aab",
+    "actor": {
+      "id": "0f0d37d1-54c5-5c5c-b88e-6ab2127b4ff4",
+      "tenant_id": "8f0f985d-2a71-5bee-bcb8-1d3c2e4a2bf6"
+    },
+    "allowed_tenant_id": "8f0f985d-2a71-5bee-bcb8-1d3c2e4a2bf6",
+    "denied_tenant_id": "7cc208d7-05fd-525b-a5e7-20e7c82e4428",
+    "synthetic": true
+  },
+  {
+    "case_id": "0f9dbc1f-a59f-526f-ad34-f1675ab9d77d",
+    "actor": {
+      "id": "ee3a517d-5a0c-55be-953f-a493102248cc",
+      "tenant_id": "8f3d03f2-3820-5632-85ad-bd90153c28b7"
+    },
+    "allowed_tenant_id": "8f3d03f2-3820-5632-85ad-bd90153c28b7",
+    "denied_tenant_id": "4d0eecbe-cf73-574e-b5df-2534ca27eb05",
+    "synthetic": true
+  },
+  {
+    "case_id": "fa069ad1-a894-5543-9290-f8b25757138e",
+    "actor": {
+      "id": "8ff1167f-fb31-5dbe-b3a1-79e21ba71d2d",
+      "tenant_id": "3e1183ae-f86e-574d-83a0-e92c84d28646"
+    },
+    "allowed_tenant_id": "3e1183ae-f86e-574d-83a0-e92c84d28646",
+    "denied_tenant_id": "caf4d10b-097c-5548-a717-83a9188e2673",
+    "synthetic": true
+  },
+  {
+    "case_id": "05373f4e-0f6c-5ef0-ae67-8309952c6edb",
+    "actor": {
+      "id": "6c53b345-749d-5aea-8543-01e52ad4db27",
+      "tenant_id": "a8220d3e-3113-57ef-8364-33e01953572c"
+    },
+    "allowed_tenant_id": "a8220d3e-3113-57ef-8364-33e01953572c",
+    "denied_tenant_id": "fe98eca5-0386-5d41-94df-930f736db7a7",
+    "synthetic": true
+  },
+  {
+    "case_id": "9c105841-7b5a-5081-b362-57dea7437094",
+    "actor": {
+      "id": "e81aedc6-4f44-5641-88a3-2821d85eb479",
+      "tenant_id": "c1ac76b5-20ea-5de8-9ca2-8eead2fc9e0d"
+    },
+    "allowed_tenant_id": "c1ac76b5-20ea-5de8-9ca2-8eead2fc9e0d",
+    "denied_tenant_id": "89b17820-d003-59fc-be75-2314d6d98ba1",
+    "synthetic": true
+  },
+  {
+    "case_id": "a4aae19d-075e-5c56-899f-2ba2f6756ab7",
+    "actor": {
+      "id": "f5ad44f1-8b6d-50a5-bfa8-c5d6d71bc549",
+      "tenant_id": "5e1d5006-35b7-5103-95aa-3634f0f086a6"
+    },
+    "allowed_tenant_id": "5e1d5006-35b7-5103-95aa-3634f0f086a6",
+    "denied_tenant_id": "33367e4d-343f-5fc7-ac69-c71fb06c604c",
+    "synthetic": true
+  },
+  {
+    "case_id": "fdaab01f-477a-593d-afa7-2f30d404dc8a",
+    "actor": {
+      "id": "f7bf6d0c-a457-5cde-b0bc-105b1125d980",
+      "tenant_id": "acdfb855-dd50-56b1-a9d8-7ea2666a98ca"
+    },
+    "allowed_tenant_id": "acdfb855-dd50-56b1-a9d8-7ea2666a98ca",
+    "denied_tenant_id": "32ead0f7-cce5-55a7-85ef-4545c871d9bf",
+    "synthetic": true
+  },
+  {
+    "case_id": "6c88e3b4-7899-580f-a518-cde3172617f2",
+    "actor": {
+      "id": "93009c09-1421-5f11-8cc9-deec3205006e",
+      "tenant_id": "460b4f83-3681-5e0b-8d32-40d21b931ccd"
+    },
+    "allowed_tenant_id": "460b4f83-3681-5e0b-8d32-40d21b931ccd",
+    "denied_tenant_id": "5b342954-772d-5dcd-aed6-6ddea975f860",
+    "synthetic": true
+  },
+  {
+    "case_id": "ac7d2cce-5bb8-562a-9112-f4e46a3fae3f",
+    "actor": {
+      "id": "baa0c199-1537-5171-8797-db8eac158912",
+      "tenant_id": "20c05b22-810d-5b2d-a183-b9400ef10292"
+    },
+    "allowed_tenant_id": "20c05b22-810d-5b2d-a183-b9400ef10292",
+    "denied_tenant_id": "e7debfea-0930-5aec-ada1-46a18f87a8a6",
+    "synthetic": true
+  },
+  {
+    "case_id": "a7d86e91-4dba-53d3-adb9-d11cc673ad03",
+    "actor": {
+      "id": "a754fefc-4e69-5bd0-96c9-f1ba16220637",
+      "tenant_id": "61f43b82-a488-5a10-928c-9b5522fa0d0d"
+    },
+    "allowed_tenant_id": "61f43b82-a488-5a10-928c-9b5522fa0d0d",
+    "denied_tenant_id": "605562e3-6f7f-5735-b5d6-fcf82a5145bc",
+    "synthetic": true
+  },
+  {
+    "case_id": "51ea2487-cbfb-5a4b-81c0-4921189396cb",
+    "actor": {
+      "id": "1e3c0493-f7ad-55b4-b8a7-102502778cec",
+      "tenant_id": "868c0417-4d11-53ec-9cee-c375e0c79908"
+    },
+    "allowed_tenant_id": "868c0417-4d11-53ec-9cee-c375e0c79908",
+    "denied_tenant_id": "93cb97b4-312a-5883-81b5-8e5ff9048e0b",
+    "synthetic": true
+  },
+  {
+    "case_id": "b2e03239-d6fc-50d1-9494-9f6accc7c993",
+    "actor": {
+      "id": "fc105582-012e-54a6-9cce-335ec0676a19",
+      "tenant_id": "56b38d0c-f1ec-51a0-b1ee-de187f29cb5e"
+    },
+    "allowed_tenant_id": "56b38d0c-f1ec-51a0-b1ee-de187f29cb5e",
+    "denied_tenant_id": "72f043b7-d959-5471-8dbb-87205c7dcb50",
+    "synthetic": true
+  },
+  {
+    "case_id": "bbb0f152-22e6-5c03-a66c-4350c6fb4c75",
+    "actor": {
+      "id": "f04d0cf1-9119-5327-83e4-9e173cff8d14",
+      "tenant_id": "88567fdd-fbf0-5ebc-af46-b1d111ae819d"
+    },
+    "allowed_tenant_id": "88567fdd-fbf0-5ebc-af46-b1d111ae819d",
+    "denied_tenant_id": "35645e52-4afa-5fe0-afce-c23b543c6cac",
+    "synthetic": true
+  },
+  {
+    "case_id": "7c89a0b6-7ed4-573c-8789-e7744d05198c",
+    "actor": {
+      "id": "3257976a-63e0-5553-a48a-e92cf84e9eae",
+      "tenant_id": "e1157691-9401-5e06-ae8a-16f0abc3c143"
+    },
+    "allowed_tenant_id": "e1157691-9401-5e06-ae8a-16f0abc3c143",
+    "denied_tenant_id": "c35b719a-99a4-554d-90d4-6d168b1d8117",
+    "synthetic": true
+  },
+  {
+    "case_id": "65904bf4-66f3-5853-9f4f-660351ed70cd",
+    "actor": {
+      "id": "3398372e-441f-5533-80aa-f43aed2dfbb4",
+      "tenant_id": "7fc501df-1772-5a43-bc3c-47ba8fdb766f"
+    },
+    "allowed_tenant_id": "7fc501df-1772-5a43-bc3c-47ba8fdb766f",
+    "denied_tenant_id": "0fc7254e-8e0b-5fad-82af-9d60054730f9",
+    "synthetic": true
+  },
+  {
+    "case_id": "c735124a-42a7-5a9a-add7-294542367ef7",
+    "actor": {
+      "id": "386ac0c9-9f6d-5f93-8659-e624bd2d5025",
+      "tenant_id": "e6b8170b-134e-5626-ba69-cec465d219be"
+    },
+    "allowed_tenant_id": "e6b8170b-134e-5626-ba69-cec465d219be",
+    "denied_tenant_id": "4e3dd42e-b3c5-5341-85b4-3f1c1f2b8687",
+    "synthetic": true
+  },
+  {
+    "case_id": "e1b07bee-ddbb-5ca1-8f57-ac5d92c3d27f",
+    "actor": {
+      "id": "eda3c0c8-4155-567b-98b4-acfb8c3ad7c3",
+      "tenant_id": "a3e3acd5-e835-54ce-ad7d-21ea3dfd9dce"
+    },
+    "allowed_tenant_id": "a3e3acd5-e835-54ce-ad7d-21ea3dfd9dce",
+    "denied_tenant_id": "507e4204-3335-57ea-8f79-572eb2178522",
+    "synthetic": true
+  },
+  {
+    "case_id": "f98e1588-c78c-5039-8179-38a8806e6631",
+    "actor": {
+      "id": "43547e38-1a7f-5300-ad7d-4ac0df312934",
+      "tenant_id": "8a8a775f-4f77-5a5d-bd4d-4ad3ebeed43a"
+    },
+    "allowed_tenant_id": "8a8a775f-4f77-5a5d-bd4d-4ad3ebeed43a",
+    "denied_tenant_id": "80100c49-99f2-5366-839d-ba7ce0a2d769",
+    "synthetic": true
+  },
+  {
+    "case_id": "ce73b8ac-b0ee-5006-856d-fe73624549f3",
+    "actor": {
+      "id": "a6429a81-4258-5daf-9a95-71a446f5d32b",
+      "tenant_id": "67a48af4-e61c-534d-84fe-d7fd8bcdfd41"
+    },
+    "allowed_tenant_id": "67a48af4-e61c-534d-84fe-d7fd8bcdfd41",
+    "denied_tenant_id": "c0cd6fba-28ac-5016-ba63-fc4d9d83738b",
+    "synthetic": true
+  },
+  {
+    "case_id": "c3b87d77-f42a-5901-aec5-4b6e779f433c",
+    "actor": {
+      "id": "9dcc4f7d-a893-5302-8414-425bcab1d3eb",
+      "tenant_id": "6ee3a7ec-6087-5788-9c2c-ab85969850ed"
+    },
+    "allowed_tenant_id": "6ee3a7ec-6087-5788-9c2c-ab85969850ed",
+    "denied_tenant_id": "cf76fee6-2af2-51fd-a0f2-bc7fe2435660",
+    "synthetic": true
+  },
+  {
+    "case_id": "8823a493-912d-58eb-a9c9-0483a09e5b3b",
+    "actor": {
+      "id": "a0c0c258-09b5-543b-892f-692a4e2b245e",
+      "tenant_id": "97e40a78-ab56-5c9e-878e-2244ed5f7988"
+    },
+    "allowed_tenant_id": "97e40a78-ab56-5c9e-878e-2244ed5f7988",
+    "denied_tenant_id": "41b320c7-0320-5460-b5f9-d6110d928f88",
+    "synthetic": true
+  },
+  {
+    "case_id": "7579f446-e6da-52f6-a600-68bedd894f86",
+    "actor": {
+      "id": "162759af-e5f2-55ba-9724-1a75c5461285",
+      "tenant_id": "a84dd307-2bdb-52e6-8139-c2b2bf895730"
+    },
+    "allowed_tenant_id": "a84dd307-2bdb-52e6-8139-c2b2bf895730",
+    "denied_tenant_id": "8603186c-93bf-577a-ada5-c5f55f5428a6",
+    "synthetic": true
+  },
+  {
+    "case_id": "f899b718-4be6-5210-bdb6-dc76c495c9b8",
+    "actor": {
+      "id": "9a1cb49e-6367-56a7-a4a8-e604866266bc",
+      "tenant_id": "0f164b8a-27a3-5dd1-a26b-e049a9eca489"
+    },
+    "allowed_tenant_id": "0f164b8a-27a3-5dd1-a26b-e049a9eca489",
+    "denied_tenant_id": "51c7af46-9113-5f6f-a9ad-1b0bea96d5ff",
+    "synthetic": true
+  },
+  {
+    "case_id": "e66f4b87-8473-5a03-bd98-0d8c5d065954",
+    "actor": {
+      "id": "ce3b8d05-575d-5067-8dac-288164ec136f",
+      "tenant_id": "5769c069-69d0-57e0-b4d4-106e3f81fb90"
+    },
+    "allowed_tenant_id": "5769c069-69d0-57e0-b4d4-106e3f81fb90",
+    "denied_tenant_id": "c0cbaa8a-543b-58c4-bafe-6931f2e7eab6",
+    "synthetic": true
+  },
+  {
+    "case_id": "f6738854-0fdc-519f-b053-91579c8f9752",
+    "actor": {
+      "id": "6a821bf4-e292-526e-af35-c209a2e75c0e",
+      "tenant_id": "f1e5b822-e176-558d-a158-6eda8640cf25"
+    },
+    "allowed_tenant_id": "f1e5b822-e176-558d-a158-6eda8640cf25",
+    "denied_tenant_id": "2b2453c3-34c4-5e66-bce9-dd2081f3110b",
+    "synthetic": true
+  },
+  {
+    "case_id": "446ebff9-9111-510a-9963-99d537884d3c",
+    "actor": {
+      "id": "39743a88-0cc3-514a-9353-28cc3e484872",
+      "tenant_id": "9191a438-21f3-525a-aefa-93eaeca17290"
+    },
+    "allowed_tenant_id": "9191a438-21f3-525a-aefa-93eaeca17290",
+    "denied_tenant_id": "a79b5ec3-7639-57dd-988a-468c0088d417",
+    "synthetic": true
+  },
+  {
+    "case_id": "68d0d942-8b78-5895-a846-105ca909c66d",
+    "actor": {
+      "id": "54f1ef6a-5230-5093-9007-b8d96501243e",
+      "tenant_id": "e999e198-0dee-56be-909c-de90ab22eec2"
+    },
+    "allowed_tenant_id": "e999e198-0dee-56be-909c-de90ab22eec2",
+    "denied_tenant_id": "19322443-f8ed-5852-8e30-7e6f1aeb53aa",
+    "synthetic": true
+  },
+  {
+    "case_id": "ea5487d8-96ce-503f-877e-aa760b8060dd",
+    "actor": {
+      "id": "666795d6-db67-57f1-8b22-a6b2f37b9891",
+      "tenant_id": "7e888630-a812-50cf-bc74-3a7514224a49"
+    },
+    "allowed_tenant_id": "7e888630-a812-50cf-bc74-3a7514224a49",
+    "denied_tenant_id": "189e8e76-a19b-5314-bf6e-de22fe276260",
+    "synthetic": true
+  },
+  {
+    "case_id": "ffadb8fd-4cfd-5b6f-8df8-3c6e75d04320",
+    "actor": {
+      "id": "d4e375ae-ec5c-5c26-9138-8ed40a100b35",
+      "tenant_id": "b2cbbd86-8daf-5657-9a59-c2df51d34584"
+    },
+    "allowed_tenant_id": "b2cbbd86-8daf-5657-9a59-c2df51d34584",
+    "denied_tenant_id": "9811b0ab-fc4b-55c8-b83d-3efb6638e2cb",
+    "synthetic": true
+  },
+  {
+    "case_id": "92229b4e-d23e-53fe-959d-72b74466d3bd",
+    "actor": {
+      "id": "98a6929b-b64a-5509-a471-9be70570b659",
+      "tenant_id": "737a808b-da3b-52ca-8720-2395f89e0ee5"
+    },
+    "allowed_tenant_id": "737a808b-da3b-52ca-8720-2395f89e0ee5",
+    "denied_tenant_id": "8f87ab6c-1a1a-56b0-b053-85f725205190",
+    "synthetic": true
+  },
+  {
+    "case_id": "d6d2a5a0-1619-59e7-8baf-140c900b4e71",
+    "actor": {
+      "id": "3f5ff54b-0994-5b14-a9af-575cd7de69de",
+      "tenant_id": "ba270d55-1225-5d0a-ab49-efd9c8be336c"
+    },
+    "allowed_tenant_id": "ba270d55-1225-5d0a-ab49-efd9c8be336c",
+    "denied_tenant_id": "5cbc703c-fdc0-515b-b220-7c9337d7539a",
+    "synthetic": true
+  },
+  {
+    "case_id": "95d3f709-5c88-5ca3-9f45-ce9254d91fc3",
+    "actor": {
+      "id": "5b92363a-3b18-5ba9-8982-7ddf30a4f8a1",
+      "tenant_id": "d10de8b0-8d52-54bd-bb65-eeec5e8103cb"
+    },
+    "allowed_tenant_id": "d10de8b0-8d52-54bd-bb65-eeec5e8103cb",
+    "denied_tenant_id": "714ace8d-c615-5cbc-8fbe-8d3e11b0fede",
+    "synthetic": true
+  },
+  {
+    "case_id": "0c9fdaac-d53f-5686-baf6-7ff33b0f34f5",
+    "actor": {
+      "id": "c7406f9e-5339-5fc0-8c9c-34bcade3e5a9",
+      "tenant_id": "a0899a62-e4eb-5a57-8e13-fb35513aea8b"
+    },
+    "allowed_tenant_id": "a0899a62-e4eb-5a57-8e13-fb35513aea8b",
+    "denied_tenant_id": "6025948f-fdec-5e5f-bcf9-dcd8b5753811",
+    "synthetic": true
+  },
+  {
+    "case_id": "49e6651f-54ee-5091-81c6-699847adc3a7",
+    "actor": {
+      "id": "b8ce581f-4fb5-5704-a15a-325ce04385c0",
+      "tenant_id": "2219b3c6-66d8-5462-b12b-4aa9e13fdbc4"
+    },
+    "allowed_tenant_id": "2219b3c6-66d8-5462-b12b-4aa9e13fdbc4",
+    "denied_tenant_id": "23de067e-de19-59b4-8db6-99a3b5cf4930",
+    "synthetic": true
+  },
+  {
+    "case_id": "7b562648-d8b5-5b53-a074-e652c9f99473",
+    "actor": {
+      "id": "75d784ab-9fb9-5841-8679-09c7063a5ce9",
+      "tenant_id": "e6365507-e2b6-5f32-8202-2121e44eadcb"
+    },
+    "allowed_tenant_id": "e6365507-e2b6-5f32-8202-2121e44eadcb",
+    "denied_tenant_id": "d23f80ea-39bd-5a28-aca9-8aa5f0d7d952",
+    "synthetic": true
+  },
+  {
+    "case_id": "9cc0b711-bcab-5c0f-814c-a28467469b6a",
+    "actor": {
+      "id": "66119d1a-3b46-57fa-b346-246dd3866b0f",
+      "tenant_id": "08ee96aa-2e54-5773-8385-6c63d50fc41b"
+    },
+    "allowed_tenant_id": "08ee96aa-2e54-5773-8385-6c63d50fc41b",
+    "denied_tenant_id": "c865a2df-77be-5107-8b6f-cf76c92330c2",
+    "synthetic": true
+  },
+  {
+    "case_id": "f2c80318-e2c5-5082-bd5c-8c90f48267aa",
+    "actor": {
+      "id": "7e471110-23e9-5e2f-b6cd-63619fdab649",
+      "tenant_id": "5105dc82-bea0-5f60-b079-5adaa069e9f2"
+    },
+    "allowed_tenant_id": "5105dc82-bea0-5f60-b079-5adaa069e9f2",
+    "denied_tenant_id": "6443c3af-0bf3-5123-9331-8d84bb4a7916",
+    "synthetic": true
+  },
+  {
+    "case_id": "69b19bd9-faad-5337-af91-d5c88a1eda0c",
+    "actor": {
+      "id": "391d07be-4935-5a16-888d-e0a28e40c572",
+      "tenant_id": "b94b7f4e-48c7-5c25-b673-170d9c94c17d"
+    },
+    "allowed_tenant_id": "b94b7f4e-48c7-5c25-b673-170d9c94c17d",
+    "denied_tenant_id": "51b46eed-bc6e-545e-b51f-7be0c18f153b",
+    "synthetic": true
+  },
+  {
+    "case_id": "e27a90e5-98c1-53d3-9c8d-fbaec8ba1fa0",
+    "actor": {
+      "id": "983a92b8-5ed1-5305-b6ec-b3b6e426b017",
+      "tenant_id": "25be40e8-f697-5ca5-9ac6-2b1b6afbb795"
+    },
+    "allowed_tenant_id": "25be40e8-f697-5ca5-9ac6-2b1b6afbb795",
+    "denied_tenant_id": "0cd085dc-76f5-529c-bd22-b35fffb49c74",
+    "synthetic": true
+  },
+  {
+    "case_id": "1c3afd1e-9efa-5c4e-8c11-e26e2c8e86d2",
+    "actor": {
+      "id": "972c85ba-957e-58e3-a166-c4eb02b3678b",
+      "tenant_id": "1a489e47-8b9b-531b-9082-445c4fd64595"
+    },
+    "allowed_tenant_id": "1a489e47-8b9b-531b-9082-445c4fd64595",
+    "denied_tenant_id": "21646acb-9744-5a1d-8309-650627a22603",
+    "synthetic": true
+  },
+  {
+    "case_id": "dd1fe5a9-ef41-5669-a152-cd922a60f1a1",
+    "actor": {
+      "id": "d080f361-89da-5f16-9ab5-dfb293afafa5",
+      "tenant_id": "a79721e9-9852-5633-b06b-ba6e19faba58"
+    },
+    "allowed_tenant_id": "a79721e9-9852-5633-b06b-ba6e19faba58",
+    "denied_tenant_id": "aca9000b-d312-52f2-86bf-86ad0ce11e5c",
+    "synthetic": true
+  },
+  {
+    "case_id": "ecdebd5c-8823-5740-86c5-8e463e5a9674",
+    "actor": {
+      "id": "621d1163-d493-59a4-82ce-1938b5e529a9",
+      "tenant_id": "16b3442e-5a77-53ef-9076-a9b640da9bd8"
+    },
+    "allowed_tenant_id": "16b3442e-5a77-53ef-9076-a9b640da9bd8",
+    "denied_tenant_id": "cd825b6a-92d3-56fe-8b95-c720a91cc8d7",
+    "synthetic": true
+  },
+  {
+    "case_id": "9ebc5bc4-963d-5a4f-99c0-ec3572fd8d1a",
+    "actor": {
+      "id": "a508674c-4afd-5aff-b7c8-3f7cdeba4f3b",
+      "tenant_id": "15bfcd0c-d351-59a9-9e03-10f7e3e95fef"
+    },
+    "allowed_tenant_id": "15bfcd0c-d351-59a9-9e03-10f7e3e95fef",
+    "denied_tenant_id": "87067289-3820-5d1c-8696-9241fbe2b34d",
+    "synthetic": true
+  },
+  {
+    "case_id": "ff465858-715c-5755-bf9f-1a7d10271cc0",
+    "actor": {
+      "id": "512fc57f-61f9-5aba-b479-76e1b3ec77ef",
+      "tenant_id": "94e27523-9b93-5ff8-bc15-6f34956986fa"
+    },
+    "allowed_tenant_id": "94e27523-9b93-5ff8-bc15-6f34956986fa",
+    "denied_tenant_id": "1b00acba-88ac-55d3-9091-9d96472294b8",
+    "synthetic": true
+  },
+  {
+    "case_id": "dca41b9e-c374-5f79-803b-8c1a85e71050",
+    "actor": {
+      "id": "047d532d-c51a-5286-b336-0a206a32d599",
+      "tenant_id": "9892e9db-ff5c-575a-948f-614bb06ab469"
+    },
+    "allowed_tenant_id": "9892e9db-ff5c-575a-948f-614bb06ab469",
+    "denied_tenant_id": "6ced3ed3-8bb5-591f-8469-1cf266a800d7",
+    "synthetic": true
+  },
+  {
+    "case_id": "d3e859c1-ef6e-5ab3-9e9d-d0983d5c816b",
+    "actor": {
+      "id": "8a3e404c-5787-5758-b2d7-a289f76b94c1",
+      "tenant_id": "10f686d1-dcc6-5a6e-8287-8f40b0d8a99c"
+    },
+    "allowed_tenant_id": "10f686d1-dcc6-5a6e-8287-8f40b0d8a99c",
+    "denied_tenant_id": "70efcf94-93c5-5de7-a5b4-acba1dd70c8a",
+    "synthetic": true
+  },
+  {
+    "case_id": "6fa2afb1-f611-5876-9852-5f3f374669eb",
+    "actor": {
+      "id": "c0a2111a-e271-51f4-919f-d6bbe7f881e7",
+      "tenant_id": "ab3a3d5c-a05b-5353-85c9-87e640099b6d"
+    },
+    "allowed_tenant_id": "ab3a3d5c-a05b-5353-85c9-87e640099b6d",
+    "denied_tenant_id": "ab84d7f8-1be2-5c9b-8c82-01ad8255c958",
+    "synthetic": true
+  },
+  {
+    "case_id": "221569dc-eb8e-55d1-b85e-a6cbe76a602b",
+    "actor": {
+      "id": "0336d9ee-cee6-5f04-a5ea-5b28d6b26e47",
+      "tenant_id": "98d5c60b-acde-507d-a7b7-1a482b1666c3"
+    },
+    "allowed_tenant_id": "98d5c60b-acde-507d-a7b7-1a482b1666c3",
+    "denied_tenant_id": "2d31857a-5ae9-5750-b1b9-92dc2d754180",
+    "synthetic": true
+  },
+  {
+    "case_id": "1866243c-5e60-5fc9-931b-9176d5688670",
+    "actor": {
+      "id": "0c329a49-70f9-5af6-879f-3ec0d9df9c28",
+      "tenant_id": "2e4e9697-c084-5532-89ee-e48eb8f7e9cd"
+    },
+    "allowed_tenant_id": "2e4e9697-c084-5532-89ee-e48eb8f7e9cd",
+    "denied_tenant_id": "f282393a-a02e-521c-96a8-19dda88561e3",
+    "synthetic": true
+  },
+  {
+    "case_id": "ccd7a4df-2f4f-5a9b-8ddd-19b729777523",
+    "actor": {
+      "id": "bd5730e9-a304-54d8-bb78-94cac49fa373",
+      "tenant_id": "183c90dc-39ca-5356-b814-29854c26560a"
+    },
+    "allowed_tenant_id": "183c90dc-39ca-5356-b814-29854c26560a",
+    "denied_tenant_id": "7d86f4b2-1504-5d06-85eb-a3753891ebc5",
+    "synthetic": true
+  },
+  {
+    "case_id": "fe1cd0ad-1e18-5999-90ea-850f630d60ff",
+    "actor": {
+      "id": "a04567d6-843a-57c1-b850-4e802743e387",
+      "tenant_id": "ea5fa2f3-fb62-5736-8f84-6acc2c031eb0"
+    },
+    "allowed_tenant_id": "ea5fa2f3-fb62-5736-8f84-6acc2c031eb0",
+    "denied_tenant_id": "3782671a-b9cc-56ca-9cf0-5566422276a8",
+    "synthetic": true
+  },
+  {
+    "case_id": "a610233a-4457-5c20-a669-859d1f31577e",
+    "actor": {
+      "id": "de95a565-1e22-56c8-bda2-2131101ace85",
+      "tenant_id": "7150ca9a-bcc4-5dfe-9eea-0caab39bfc0c"
+    },
+    "allowed_tenant_id": "7150ca9a-bcc4-5dfe-9eea-0caab39bfc0c",
+    "denied_tenant_id": "bc3ea541-d4c3-5673-9650-7c5bc9197563",
+    "synthetic": true
+  },
+  {
+    "case_id": "01c51523-24c4-5d1f-b2dd-7916d78fe075",
+    "actor": {
+      "id": "35454ff6-c560-5ef8-84f4-690feb84cfe6",
+      "tenant_id": "444dfe49-8fc4-5afb-a452-ab39cfbcef27"
+    },
+    "allowed_tenant_id": "444dfe49-8fc4-5afb-a452-ab39cfbcef27",
+    "denied_tenant_id": "b3ea75a8-311a-5f85-a743-e844413bc4ef",
+    "synthetic": true
+  },
+  {
+    "case_id": "b18bfbc8-3964-5abe-8525-fa044064b309",
+    "actor": {
+      "id": "8268cb5c-61a4-5648-ad50-d376b27f3d93",
+      "tenant_id": "ee642dca-6dd8-5619-8cb2-492eefa37ff0"
+    },
+    "allowed_tenant_id": "ee642dca-6dd8-5619-8cb2-492eefa37ff0",
+    "denied_tenant_id": "aa379271-3d75-5e44-940c-b01f045fc251",
+    "synthetic": true
+  },
+  {
+    "case_id": "9ffd93b8-78b3-5053-b15a-dc43e42a1a19",
+    "actor": {
+      "id": "62276abb-4bf7-5ef2-97fc-11b3296cb783",
+      "tenant_id": "086433a3-1e2d-5165-a452-51d9fdf30f6c"
+    },
+    "allowed_tenant_id": "086433a3-1e2d-5165-a452-51d9fdf30f6c",
+    "denied_tenant_id": "e98d2aca-3003-5871-bf02-c4d49e0e1633",
+    "synthetic": true
+  },
+  {
+    "case_id": "20e2dcd1-dd46-5962-9a94-a32a3bfb5f6b",
+    "actor": {
+      "id": "2c1118a6-0eeb-5627-a48a-d6dfba6c34e5",
+      "tenant_id": "f522996f-ea61-5345-9a36-c576a06265a6"
+    },
+    "allowed_tenant_id": "f522996f-ea61-5345-9a36-c576a06265a6",
+    "denied_tenant_id": "cb6c1965-f1c8-594a-98b1-385851d9d1fe",
+    "synthetic": true
+  },
+  {
+    "case_id": "729f59ec-eadd-55a0-a32d-19a05ae3bd3f",
+    "actor": {
+      "id": "b557f968-bc90-5022-868d-cf262c504c7d",
+      "tenant_id": "e8ed547d-1db9-5362-9643-052fb61d64c7"
+    },
+    "allowed_tenant_id": "e8ed547d-1db9-5362-9643-052fb61d64c7",
+    "denied_tenant_id": "5347db60-e918-5e43-8194-e283dc6d2c82",
+    "synthetic": true
+  },
+  {
+    "case_id": "0209644c-e32c-5ffe-99b1-192b27a38c4a",
+    "actor": {
+      "id": "35bbbbba-3804-5499-b9c7-ad437e976e6d",
+      "tenant_id": "00f93ee1-602a-5bad-aeb9-161794ce058e"
+    },
+    "allowed_tenant_id": "00f93ee1-602a-5bad-aeb9-161794ce058e",
+    "denied_tenant_id": "ec3d9c8c-c285-597e-85a3-68ccded658bd",
+    "synthetic": true
+  },
+  {
+    "case_id": "eb1c7fd3-051f-5942-9071-1af99bfe4234",
+    "actor": {
+      "id": "f43903d6-20af-5f93-9fc9-9c0de2cab558",
+      "tenant_id": "ebe27597-a2da-59f4-8166-d4dacc93539c"
+    },
+    "allowed_tenant_id": "ebe27597-a2da-59f4-8166-d4dacc93539c",
+    "denied_tenant_id": "172a83e9-8ec3-5079-a660-f759a03fa2d7",
+    "synthetic": true
+  },
+  {
+    "case_id": "9f6a36e2-bee7-50a4-8612-3ff2890150bf",
+    "actor": {
+      "id": "2018c1cd-6944-57ac-9bb1-f444c9196ecd",
+      "tenant_id": "0e9307ea-42f3-570b-9db8-d2fe15be84c3"
+    },
+    "allowed_tenant_id": "0e9307ea-42f3-570b-9db8-d2fe15be84c3",
+    "denied_tenant_id": "b87d1f10-fb9d-5217-8feb-cbf2c3d62533",
+    "synthetic": true
+  },
+  {
+    "case_id": "702105dc-5299-5f7f-a120-4ce2a14b9ec6",
+    "actor": {
+      "id": "c7e385e0-0996-5e51-88fb-59def1a7c31f",
+      "tenant_id": "8c9c4abc-c807-5588-9c9f-3457d08fa019"
+    },
+    "allowed_tenant_id": "8c9c4abc-c807-5588-9c9f-3457d08fa019",
+    "denied_tenant_id": "2ff22d03-6430-5a4b-8c76-d52a58670711",
+    "synthetic": true
+  },
+  {
+    "case_id": "2af860d0-621b-54a0-bfef-2caed81c978b",
+    "actor": {
+      "id": "9ca4478a-8c90-56b4-946c-f277040b3c85",
+      "tenant_id": "3b5e3d13-4641-5c89-9ab4-983a18123e8f"
+    },
+    "allowed_tenant_id": "3b5e3d13-4641-5c89-9ab4-983a18123e8f",
+    "denied_tenant_id": "1f5b07b3-3105-5acc-bcca-8de86ff087ea",
+    "synthetic": true
+  },
+  {
+    "case_id": "edcb29d7-2180-5f8e-880e-b4d908f950c3",
+    "actor": {
+      "id": "8981b928-c660-5b1a-8a93-981ec37e2222",
+      "tenant_id": "2e655ee9-b8aa-53ca-834b-59de3fb385a6"
+    },
+    "allowed_tenant_id": "2e655ee9-b8aa-53ca-834b-59de3fb385a6",
+    "denied_tenant_id": "f1cb3088-f02e-5483-8ad1-d5566d37f43f",
+    "synthetic": true
+  },
+  {
+    "case_id": "17acb3cb-cbba-56ae-ae95-16f6946c9711",
+    "actor": {
+      "id": "fec3df1d-5a21-5c56-b07c-9394180b4633",
+      "tenant_id": "a9f40098-8550-594c-aa55-7bbc271093eb"
+    },
+    "allowed_tenant_id": "a9f40098-8550-594c-aa55-7bbc271093eb",
+    "denied_tenant_id": "2f7bb88a-29de-53aa-a71a-10ca19811fc3",
+    "synthetic": true
+  },
+  {
+    "case_id": "579b7471-d24b-534d-ae20-8b9ea0346059",
+    "actor": {
+      "id": "260c9c36-c8bb-5506-abad-d97fa7b08859",
+      "tenant_id": "4c6dbf31-9f90-50fe-a91d-8bb6056c8b67"
+    },
+    "allowed_tenant_id": "4c6dbf31-9f90-50fe-a91d-8bb6056c8b67",
+    "denied_tenant_id": "fcf8df71-1b5b-5f81-b6af-13fd2213c274",
+    "synthetic": true
+  },
+  {
+    "case_id": "d3896fa7-212e-5367-ba4a-a72f701f90b4",
+    "actor": {
+      "id": "fb5e48e3-ab04-5ff7-8fd4-722888b3856a",
+      "tenant_id": "a1786c2e-b732-5c65-9946-967768eef899"
+    },
+    "allowed_tenant_id": "a1786c2e-b732-5c65-9946-967768eef899",
+    "denied_tenant_id": "031cae8c-910f-583f-9b5f-13e1f46fb224",
+    "synthetic": true
+  },
+  {
+    "case_id": "c6572b3f-e5fa-509d-be97-e763f35d9996",
+    "actor": {
+      "id": "ddee52a4-f9dc-5b51-b899-d9d9aa33dfd8",
+      "tenant_id": "af00a9fa-8395-55e6-b34a-837f6d077676"
+    },
+    "allowed_tenant_id": "af00a9fa-8395-55e6-b34a-837f6d077676",
+    "denied_tenant_id": "7c701803-44f4-5331-a6dc-c220e2caab78",
+    "synthetic": true
+  },
+  {
+    "case_id": "1d6dd051-2a5b-5915-af60-3ce3e7ad9b9a",
+    "actor": {
+      "id": "1f597bf2-0c8c-5adb-9403-a9a87e0253de",
+      "tenant_id": "f792de44-58f0-5ddf-8b01-2e049f3607ee"
+    },
+    "allowed_tenant_id": "f792de44-58f0-5ddf-8b01-2e049f3607ee",
+    "denied_tenant_id": "c8811329-f858-5494-b08f-e912dc6b0ebc",
+    "synthetic": true
+  },
+  {
+    "case_id": "9d910e65-6946-5862-959b-ebc22a898c01",
+    "actor": {
+      "id": "5782c226-76b7-564a-81ce-0a9be3ce41e0",
+      "tenant_id": "afb07bbd-07b6-55f6-97f9-5509c43af5f1"
+    },
+    "allowed_tenant_id": "afb07bbd-07b6-55f6-97f9-5509c43af5f1",
+    "denied_tenant_id": "bbf5738f-c7b7-5f43-b7b3-8988b5cb7c8a",
+    "synthetic": true
+  },
+  {
+    "case_id": "6a2340b8-bb13-581e-908c-72e36bee09bb",
+    "actor": {
+      "id": "ab2fb08b-b306-5544-a3ee-419eed37c080",
+      "tenant_id": "48890b07-48fd-5382-9303-7431c9e4b568"
+    },
+    "allowed_tenant_id": "48890b07-48fd-5382-9303-7431c9e4b568",
+    "denied_tenant_id": "d21409c3-7e4c-5c8b-a97e-a72d191cce38",
+    "synthetic": true
+  },
+  {
+    "case_id": "877cdc11-e0cc-596f-ba1b-dfc9346b1b07",
+    "actor": {
+      "id": "8a6f7d39-2367-56f8-a61e-05c4f945badb",
+      "tenant_id": "dd02ddb7-9a8b-55e5-8253-960ba9d7e698"
+    },
+    "allowed_tenant_id": "dd02ddb7-9a8b-55e5-8253-960ba9d7e698",
+    "denied_tenant_id": "cd2c6d53-fb8e-5877-9d1b-ca08e548bcf6",
+    "synthetic": true
+  },
+  {
+    "case_id": "25eb2339-eaa7-5b9e-a497-5802b6ab1c33",
+    "actor": {
+      "id": "987b2148-9ce1-5037-95fe-70468c727f95",
+      "tenant_id": "637087c2-e351-5328-8102-f4727a5a2434"
+    },
+    "allowed_tenant_id": "637087c2-e351-5328-8102-f4727a5a2434",
+    "denied_tenant_id": "90993be8-9a70-5a6d-b779-74aa9e7c189e",
+    "synthetic": true
+  },
+  {
+    "case_id": "fc0b7159-1183-5853-a8da-3f51211d1e65",
+    "actor": {
+      "id": "d8d9342d-0f4a-5929-97c0-42e04ceb46a5",
+      "tenant_id": "6ec167b6-cc14-5a13-aa82-b2da5ec93dcb"
+    },
+    "allowed_tenant_id": "6ec167b6-cc14-5a13-aa82-b2da5ec93dcb",
+    "denied_tenant_id": "a57f8193-3478-5a5e-a739-2a2e0a8a68ae",
+    "synthetic": true
+  },
+  {
+    "case_id": "1fae5168-aad7-5a0d-995c-253561695c99",
+    "actor": {
+      "id": "ef7a3a24-fa78-505a-bbae-8724bdacca05",
+      "tenant_id": "36b6ca86-cb72-565b-8d54-ce5566ee7bdb"
+    },
+    "allowed_tenant_id": "36b6ca86-cb72-565b-8d54-ce5566ee7bdb",
+    "denied_tenant_id": "301beddb-1616-573f-a82a-7889edccd6e6",
+    "synthetic": true
+  },
+  {
+    "case_id": "55b0ad68-63b6-50d6-93e4-d91e77dc424d",
+    "actor": {
+      "id": "8daef5b7-911c-51ec-b76e-88360c542b7b",
+      "tenant_id": "30092f3b-e780-581d-bade-0d427a3841ff"
+    },
+    "allowed_tenant_id": "30092f3b-e780-581d-bade-0d427a3841ff",
+    "denied_tenant_id": "26c1eb57-ae6a-59ab-bcfa-903d771799b6",
+    "synthetic": true
+  },
+  {
+    "case_id": "ee5f8f8f-64e3-54b7-a8f7-5879043587f0",
+    "actor": {
+      "id": "beba3678-44fe-5a0d-acdc-f72547c44248",
+      "tenant_id": "0c066cdf-6900-5360-b86d-bb21c96f1489"
+    },
+    "allowed_tenant_id": "0c066cdf-6900-5360-b86d-bb21c96f1489",
+    "denied_tenant_id": "542459e5-cf7c-572b-a9d7-b0a5e65d8412",
+    "synthetic": true
+  },
+  {
+    "case_id": "5623929d-86c1-59b0-987a-77355e64c80e",
+    "actor": {
+      "id": "68cb668c-a8d8-5270-9326-582f555c1ebf",
+      "tenant_id": "02b129de-457c-589e-82bb-c6de72ce9150"
+    },
+    "allowed_tenant_id": "02b129de-457c-589e-82bb-c6de72ce9150",
+    "denied_tenant_id": "db18bffb-04c8-5f36-92e5-42e920817211",
+    "synthetic": true
+  },
+  {
+    "case_id": "a64d0b81-e966-5f9e-bde2-781a18cb6eab",
+    "actor": {
+      "id": "d0196238-2981-5247-a502-41865f0b4a94",
+      "tenant_id": "1d44e7b3-7968-54cd-a23b-503d9df33048"
+    },
+    "allowed_tenant_id": "1d44e7b3-7968-54cd-a23b-503d9df33048",
+    "denied_tenant_id": "a4f46290-8f43-5342-870b-f60600c00cbe",
+    "synthetic": true
+  },
+  {
+    "case_id": "cc218364-e26b-5832-b8ed-8f89b448e03b",
+    "actor": {
+      "id": "ea726ca0-592c-51cf-9644-09f7709f4230",
+      "tenant_id": "db183f1b-4bf3-528b-b6f5-04ffefb5d253"
+    },
+    "allowed_tenant_id": "db183f1b-4bf3-528b-b6f5-04ffefb5d253",
+    "denied_tenant_id": "7a5f0170-c354-536c-bdc3-f86f337faf30",
+    "synthetic": true
+  },
+  {
+    "case_id": "5476db88-c816-53ff-9055-fd8f79cd5794",
+    "actor": {
+      "id": "6e2f9e77-5d36-53f8-ba43-291c5b37a8bb",
+      "tenant_id": "b4a290b8-3bc8-5018-a0c9-4528bf46f9e2"
+    },
+    "allowed_tenant_id": "b4a290b8-3bc8-5018-a0c9-4528bf46f9e2",
+    "denied_tenant_id": "7b953eb6-d730-5a99-933d-dfe1f794458e",
+    "synthetic": true
+  },
+  {
+    "case_id": "998c8ff3-dd18-5655-a9b6-7ebea3ecb797",
+    "actor": {
+      "id": "39557564-6f1d-5d3f-8ace-033617226b8f",
+      "tenant_id": "4d731d02-9629-5dff-acbc-6e97aa6400e7"
+    },
+    "allowed_tenant_id": "4d731d02-9629-5dff-acbc-6e97aa6400e7",
+    "denied_tenant_id": "4ac47aa6-1478-5fc2-b4d7-01fd8bca632e",
+    "synthetic": true
+  },
+  {
+    "case_id": "88288185-8700-530c-a0aa-6a658cd1afe8",
+    "actor": {
+      "id": "44419816-5601-5fa5-95d7-432e5738c0b0",
+      "tenant_id": "843961a6-bf68-589e-ab5a-0d4ec4353156"
+    },
+    "allowed_tenant_id": "843961a6-bf68-589e-ab5a-0d4ec4353156",
+    "denied_tenant_id": "90f18f7a-53fd-5fbd-9c3a-982c913cf965",
+    "synthetic": true
+  },
+  {
+    "case_id": "150c194b-aabc-5746-a128-ad3fffdbf91e",
+    "actor": {
+      "id": "a37b6895-3aaa-5628-a86e-f609dbbfa344",
+      "tenant_id": "5a92d90b-29d5-586c-a135-16151a8a61c4"
+    },
+    "allowed_tenant_id": "5a92d90b-29d5-586c-a135-16151a8a61c4",
+    "denied_tenant_id": "cef619d5-9d0c-5ef0-9853-d659c66c40ca",
+    "synthetic": true
+  },
+  {
+    "case_id": "6e859962-3171-5287-81fa-e76e75612695",
+    "actor": {
+      "id": "2a0f1668-8d61-5ce6-9cc6-96f218d7d448",
+      "tenant_id": "e0d6401c-447d-5e16-96ad-e6700cb73714"
+    },
+    "allowed_tenant_id": "e0d6401c-447d-5e16-96ad-e6700cb73714",
+    "denied_tenant_id": "ac6b1924-d1fd-5cf8-ac8a-145bb6e63c33",
+    "synthetic": true
+  },
+  {
+    "case_id": "d6b0ed52-8f11-5e0d-a759-39424ff525fd",
+    "actor": {
+      "id": "45ab1806-1b60-5d5b-a05d-0f1bbd22886e",
+      "tenant_id": "0be82a1d-9939-56bc-bbcc-d2de77a71c77"
+    },
+    "allowed_tenant_id": "0be82a1d-9939-56bc-bbcc-d2de77a71c77",
+    "denied_tenant_id": "d4c9a2db-687d-5031-bf65-442cf4d61b49",
+    "synthetic": true
+  },
+  {
+    "case_id": "926ef5cf-9227-5c57-af0e-856ad84a2b38",
+    "actor": {
+      "id": "5dd2c006-0db2-5bc9-97ee-9e20e6866c35",
+      "tenant_id": "87652892-221d-51f7-9e5a-e37d18e88899"
+    },
+    "allowed_tenant_id": "87652892-221d-51f7-9e5a-e37d18e88899",
+    "denied_tenant_id": "aafa03c7-913f-51d4-a773-c07e3f464433",
+    "synthetic": true
+  },
+  {
+    "case_id": "9176a121-9658-5c3f-a54d-f07a88939ee2",
+    "actor": {
+      "id": "b7c7e935-5216-555a-a30e-d0b582fe96aa",
+      "tenant_id": "2f98668f-050a-5f54-a4fb-27a922c294ca"
+    },
+    "allowed_tenant_id": "2f98668f-050a-5f54-a4fb-27a922c294ca",
+    "denied_tenant_id": "33b6d5ca-8924-575c-98be-574ab105afd0",
+    "synthetic": true
+  },
+  {
+    "case_id": "a7eb98d6-65cb-5109-8298-faa7dc207bb5",
+    "actor": {
+      "id": "1754c5ba-7607-5ffb-a93d-7f44ee33af57",
+      "tenant_id": "56d60309-461e-52ae-82f0-7a2f6f3516e8"
+    },
+    "allowed_tenant_id": "56d60309-461e-52ae-82f0-7a2f6f3516e8",
+    "denied_tenant_id": "e1b833f6-aac1-5c6c-9f97-1d9a458d0e26",
+    "synthetic": true
+  },
+  {
+    "case_id": "0f95c4b4-51f4-5717-8678-cb1d08e9d4f3",
+    "actor": {
+      "id": "109669d1-dc48-5160-bc37-b5a8fb443dcf",
+      "tenant_id": "b6d1afe1-d6f1-542c-afa9-348b49fac368"
+    },
+    "allowed_tenant_id": "b6d1afe1-d6f1-542c-afa9-348b49fac368",
+    "denied_tenant_id": "b2366cf9-e924-59f1-85b1-8e12a55b001b",
+    "synthetic": true
+  },
+  {
+    "case_id": "cb1bcc18-97b7-5ac8-af60-c351ffd42e91",
+    "actor": {
+      "id": "09f3725e-dfc4-54f6-8bb9-a0c7445a7174",
+      "tenant_id": "b713755b-1aa4-5298-9324-c194fbead62c"
+    },
+    "allowed_tenant_id": "b713755b-1aa4-5298-9324-c194fbead62c",
+    "denied_tenant_id": "faba0271-848f-51e9-989c-7b861116c8ab",
+    "synthetic": true
+  },
+  {
+    "case_id": "612f22d0-58e6-596b-af70-3b911dc3b9c0",
+    "actor": {
+      "id": "cda3f12e-4219-59ed-bacd-d24c689ee2d7",
+      "tenant_id": "baf5e7e0-5e3a-5a5a-bd96-7dfa0478e0a6"
+    },
+    "allowed_tenant_id": "baf5e7e0-5e3a-5a5a-bd96-7dfa0478e0a6",
+    "denied_tenant_id": "9a958525-eb0e-5327-aef3-beb5bef47496",
+    "synthetic": true
+  },
+  {
+    "case_id": "c03ff63f-c1bb-55c3-ada0-8b0b36d474d0",
+    "actor": {
+      "id": "2c4f2925-ca0b-5021-b447-419e7c22754a",
+      "tenant_id": "a624cdfb-f151-52e1-b32d-2af9a9ff85f3"
+    },
+    "allowed_tenant_id": "a624cdfb-f151-52e1-b32d-2af9a9ff85f3",
+    "denied_tenant_id": "72feff5d-0f30-592b-a9ce-56ceeddc9ed2",
+    "synthetic": true
+  },
+  {
+    "case_id": "e952cb1a-10bb-5cc2-88ed-b1654cc91a78",
+    "actor": {
+      "id": "45fcf37c-e9bc-5787-84ee-d29a9a1066b6",
+      "tenant_id": "ddec8026-1306-57b4-88fb-166cdb3bca55"
+    },
+    "allowed_tenant_id": "ddec8026-1306-57b4-88fb-166cdb3bca55",
+    "denied_tenant_id": "13b02772-9735-5ed6-b7a8-1bb3dfa52f30",
+    "synthetic": true
+  },
+  {
+    "case_id": "33a950ab-468f-5149-8317-ba330568471a",
+    "actor": {
+      "id": "4581c43e-b52a-5e18-aa9d-7f619ba49e8b",
+      "tenant_id": "0a8ae4f7-ea0b-5e4f-bcc5-5101baa2cdc6"
+    },
+    "allowed_tenant_id": "0a8ae4f7-ea0b-5e4f-bcc5-5101baa2cdc6",
+    "denied_tenant_id": "d17d65c4-0362-5fd8-916e-55cb4f7ce24e",
+    "synthetic": true
+  },
+  {
+    "case_id": "1b7797d5-ba9c-52fe-94fa-27bc2c040aef",
+    "actor": {
+      "id": "e02db608-9aa0-50fe-a237-2665e6c7114d",
+      "tenant_id": "b7d089c8-0763-5138-b293-54ff30d5611d"
+    },
+    "allowed_tenant_id": "b7d089c8-0763-5138-b293-54ff30d5611d",
+    "denied_tenant_id": "604459d2-f802-58b7-98e8-c6bbbaa07498",
+    "synthetic": true
+  },
+  {
+    "case_id": "0256bb90-5452-5f97-a0a0-8dc68447ebae",
+    "actor": {
+      "id": "060a2f36-c1ae-5dd7-be22-1f27eca39fdc",
+      "tenant_id": "b3bb8466-a7e3-5a35-971d-bb16cd88c28d"
+    },
+    "allowed_tenant_id": "b3bb8466-a7e3-5a35-971d-bb16cd88c28d",
+    "denied_tenant_id": "53cd3bb6-fb58-572f-a028-dedb94ea6bee",
+    "synthetic": true
+  },
+  {
+    "case_id": "74c5d3cf-75a3-59fe-a6a2-044ee6f23a03",
+    "actor": {
+      "id": "fc4763ca-4d2f-505d-9076-28b7caaba915",
+      "tenant_id": "77aa9879-1162-54d8-b3dc-78e7e4e961d3"
+    },
+    "allowed_tenant_id": "77aa9879-1162-54d8-b3dc-78e7e4e961d3",
+    "denied_tenant_id": "f9333817-4137-59e8-bc1a-e8c729eb41ea",
+    "synthetic": true
+  },
+  {
+    "case_id": "20f42db2-3d73-5783-a409-f18708a582eb",
+    "actor": {
+      "id": "ae4c0597-e4a5-59a6-9ce1-e242108b9428",
+      "tenant_id": "17382dd1-bac4-53e5-bc43-df3d30722228"
+    },
+    "allowed_tenant_id": "17382dd1-bac4-53e5-bc43-df3d30722228",
+    "denied_tenant_id": "28d44211-7cb8-5528-aafc-1ef0c2ce961f",
+    "synthetic": true
+  },
+  {
+    "case_id": "f9525714-77ec-50da-af98-8d282a3c4ce6",
+    "actor": {
+      "id": "93e65854-6b74-5a02-b5d9-e38852e37fab",
+      "tenant_id": "17fd181e-de07-5acf-92e8-266dd3ab1190"
+    },
+    "allowed_tenant_id": "17fd181e-de07-5acf-92e8-266dd3ab1190",
+    "denied_tenant_id": "f008a6d3-db0a-54e2-92c6-0f6d7abe03b1",
+    "synthetic": true
+  },
+  {
+    "case_id": "bde5ecc8-6774-5fcb-b3de-69028e3e73b1",
+    "actor": {
+      "id": "cf17496c-bf91-5163-b9dc-98be7177469e",
+      "tenant_id": "f85b14fd-fa44-5ce5-a561-bbb04334e9f6"
+    },
+    "allowed_tenant_id": "f85b14fd-fa44-5ce5-a561-bbb04334e9f6",
+    "denied_tenant_id": "231d79a6-aa1f-5c51-bdde-0afb86be549f",
+    "synthetic": true
+  },
+  {
+    "case_id": "47f6b9f6-1f2f-5804-ac39-ce7cb7600111",
+    "actor": {
+      "id": "048c5935-ddaf-55e3-8fb4-7f49f250421f",
+      "tenant_id": "d7448338-77f0-5540-b9e7-e95fc617a353"
+    },
+    "allowed_tenant_id": "d7448338-77f0-5540-b9e7-e95fc617a353",
+    "denied_tenant_id": "20d4cedc-f6a8-57a1-bb8f-49ccd5937a1d",
+    "synthetic": true
+  },
+  {
+    "case_id": "307a4fed-987b-55a3-97cb-d38c560921e1",
+    "actor": {
+      "id": "7f0d710f-2d1f-551c-bf82-959ac3ba8bf1",
+      "tenant_id": "2dc1e95d-c029-572b-8c4e-6644b714edd2"
+    },
+    "allowed_tenant_id": "2dc1e95d-c029-572b-8c4e-6644b714edd2",
+    "denied_tenant_id": "a890fab8-45a4-5891-a3e1-5510036ba22e",
+    "synthetic": true
+  },
+  {
+    "case_id": "9dfaf7d1-d12b-5919-9df3-e82723ce40cf",
+    "actor": {
+      "id": "b385758b-1796-566c-bdcd-5c4f5a94b61c",
+      "tenant_id": "50d03b11-06b3-5b15-8cec-5eb1f7469527"
+    },
+    "allowed_tenant_id": "50d03b11-06b3-5b15-8cec-5eb1f7469527",
+    "denied_tenant_id": "dd6096a1-f55c-5d2b-b08c-cf2c32a4c5ca",
+    "synthetic": true
+  },
+  {
+    "case_id": "a8e28fa2-77db-5bf8-8430-bce8d9575bb8",
+    "actor": {
+      "id": "69a8dd50-6e6d-5396-ba11-6012387f5e4f",
+      "tenant_id": "a7bebec5-abd7-5c09-88cd-78b3ae1d4719"
+    },
+    "allowed_tenant_id": "a7bebec5-abd7-5c09-88cd-78b3ae1d4719",
+    "denied_tenant_id": "7e65fa92-a32a-570d-97b2-c741acb38791",
+    "synthetic": true
+  },
+  {
+    "case_id": "4e162b94-6ac5-5f3c-bad6-19bf17b92df6",
+    "actor": {
+      "id": "a1bff78e-f4e9-5e76-b695-575dc2fb3e8d",
+      "tenant_id": "392c8693-2b17-5f3c-a93c-3dffaa97f9d6"
+    },
+    "allowed_tenant_id": "392c8693-2b17-5f3c-a93c-3dffaa97f9d6",
+    "denied_tenant_id": "634c669a-fa6b-5cbd-b20e-b075e4b6c6cb",
+    "synthetic": true
+  },
+  {
+    "case_id": "d4b6231f-75bd-5cd2-ad99-b7227338ff7d",
+    "actor": {
+      "id": "1c09363b-9930-5cbf-887c-921d9ba4521a",
+      "tenant_id": "1a0dfac5-f132-57af-800c-6278d997d7dc"
+    },
+    "allowed_tenant_id": "1a0dfac5-f132-57af-800c-6278d997d7dc",
+    "denied_tenant_id": "1c22a8ac-2bdd-5173-949b-44e0bfc36071",
+    "synthetic": true
+  },
+  {
+    "case_id": "a2519923-278a-5eb6-a6e4-6c0e3a78a106",
+    "actor": {
+      "id": "2c26a67f-d3b0-516b-b503-8f97dbd367fd",
+      "tenant_id": "a6e49092-0b42-5366-939b-f519c172e434"
+    },
+    "allowed_tenant_id": "a6e49092-0b42-5366-939b-f519c172e434",
+    "denied_tenant_id": "05aa3d51-54cd-5cf5-b249-7d174819201e",
+    "synthetic": true
+  },
+  {
+    "case_id": "17e63cd4-5f25-5e6f-a6db-c340fd870c93",
+    "actor": {
+      "id": "8fe7ab0d-d433-5f71-a3e3-e67b58b312d1",
+      "tenant_id": "72ea3085-2d6b-5c93-aa9c-85878f607f02"
+    },
+    "allowed_tenant_id": "72ea3085-2d6b-5c93-aa9c-85878f607f02",
+    "denied_tenant_id": "65bde0bc-f482-595e-8fd4-1f0e73a4cfbd",
+    "synthetic": true
+  },
+  {
+    "case_id": "bfc1203b-2fbb-53d4-b105-d2b06298c25a",
+    "actor": {
+      "id": "307ea63c-4de7-5847-823c-ce2fd96c3ea2",
+      "tenant_id": "0be7809f-fcf5-5e10-9837-5786fcc918ac"
+    },
+    "allowed_tenant_id": "0be7809f-fcf5-5e10-9837-5786fcc918ac",
+    "denied_tenant_id": "7864b7ec-d7bf-58db-be83-fcfb8619938d",
+    "synthetic": true
+  },
+  {
+    "case_id": "dc5e4bf7-5c1a-5e1c-8ba8-7fd42c652ff4",
+    "actor": {
+      "id": "7f60c492-04c5-560a-b3bc-ecca6514c648",
+      "tenant_id": "b2b63231-3caa-5264-8e20-1fd40d84221c"
+    },
+    "allowed_tenant_id": "b2b63231-3caa-5264-8e20-1fd40d84221c",
+    "denied_tenant_id": "8a1e5fd7-fba1-52f1-ba9a-b81b58d57288",
+    "synthetic": true
+  },
+  {
+    "case_id": "dab80734-0f2c-5ff5-b324-24daf0bbaf11",
+    "actor": {
+      "id": "f9aac609-cd95-57fd-bf89-9ce99f39513b",
+      "tenant_id": "0add548b-d3de-5cab-a27d-feed19829f22"
+    },
+    "allowed_tenant_id": "0add548b-d3de-5cab-a27d-feed19829f22",
+    "denied_tenant_id": "ff7e2df6-b564-5e34-8085-3f2a4a0b11e0",
+    "synthetic": true
+  },
+  {
+    "case_id": "90f5cc88-0a4a-50a7-a7b6-ce988b17f480",
+    "actor": {
+      "id": "e443647b-4526-52f3-9e48-c76f63796f50",
+      "tenant_id": "b52f29c0-c419-5452-9503-6f0509fdfce9"
+    },
+    "allowed_tenant_id": "b52f29c0-c419-5452-9503-6f0509fdfce9",
+    "denied_tenant_id": "72c6406b-4331-5fb0-a41b-34d1268dae8f",
+    "synthetic": true
+  },
+  {
+    "case_id": "4daea6ca-6b87-59ca-b90c-aaff629f930c",
+    "actor": {
+      "id": "1984ed47-da87-57c7-80c9-372788d3df03",
+      "tenant_id": "77c77b7c-be8d-5e32-acdb-75c228124a25"
+    },
+    "allowed_tenant_id": "77c77b7c-be8d-5e32-acdb-75c228124a25",
+    "denied_tenant_id": "20e35148-82f3-5d70-baca-dbeea4388f91",
+    "synthetic": true
+  },
+  {
+    "case_id": "e8696ed1-f98b-5221-a4ab-165be2dc3a47",
+    "actor": {
+      "id": "ac22fd8e-6257-5664-96c4-b105a3a892f4",
+      "tenant_id": "7b293a01-1963-5f1f-acfc-eb217433f24b"
+    },
+    "allowed_tenant_id": "7b293a01-1963-5f1f-acfc-eb217433f24b",
+    "denied_tenant_id": "07d164d2-3dc5-5cb9-9f88-23bed1a5c4c4",
+    "synthetic": true
+  }
+]
